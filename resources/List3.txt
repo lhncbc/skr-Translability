@@ -1,0 +1,33 @@
+Hazardous or Poisonous Substance|hops
+Biologically Active Substance|bacs
+C0000097   1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine 
+C0044444   1-methyl-4-(2'-methylphenyl)-1,2,3,6-tetrahydropyridine 
+C0751864   MPTP-Induced Degeneration of the Striatum 
+C0626122   1-methyl-4-(4-chlorophenyl)-1,2,3,6-tetrahydropyridine 
+C0639186   1,3,3-trimethyl-4-phenyl-1,2,3,6-tetrahydropyridine 
+C0658895   1-methyl-4-(2-(fluoromethyl)phenyl)-1,2,3,6-tetrahydropyridine 
+C0035871   Rotenone 
+C0030493   Paraquat 
+C0024705   Maneb 
+C0085196   Oxidopamine 
+C0661625   6-hydroxydopamine quinone 
+C0000098   1-Methyl-4-phenylpyridinium 
+C0004398|Autopsy|diap
+Toxic
+MPTP
+rotenone
+Paraquat
+Maneb
+6-OHDA
+MPP
+SH-SY5Y
+PC12
+C0085262 PC12 Cells
+N27
+MN9D
+samples
+tissue
+autopsy
+biopsy
+postmortem
+

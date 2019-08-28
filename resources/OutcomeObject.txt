@@ -1,0 +1,20 @@
+Neuroprotection|pos
+Neurologic Deficits|neg
+Ataxia|neg
+Tremor|neg
+Hypokinesia|neg
+Dyskinesia|neg
+Dyskinetic|neg
+Neurodegeneration|neg
+Neurodegenerative |neg
+Chorea|neg
+Choreiform|neg
+motor|pos
+function|pos
+motor deficits|neg
+motor activity |pos
+ability|pos
+coordination|pos
+behavioral deficits|neg
+depression|neg
+anxiety|neg

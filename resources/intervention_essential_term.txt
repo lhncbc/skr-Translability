@@ -1,0 +1,352 @@
+3-APS	C001355
+AAB-003
+AADvac-1
+AAV2-hAADC
+ABT 418	C088383
+ABT-089	C108326
+ABT-288	C576396
+ABT-384	C584004
+ABT-957
+ABvac 40
+AC-1202	C538853
+ACC-001	C000603458
+Accordion Pill
+Acetyl-l-carnitine HCI	D000108
+ACI-24
+ACI-35
+Acitretin	D017255	
+active immunotherapy	D016233 
+acupuncture	D026881
+ADL5510
+Aducanumab	C000600266
+ADX48621-201 
+AF 102B	C059240
+Affitope
+Affitope AD02
+AGB101	D000077287
+AIP 001	C437846
+ALCAR	D000108
+Allopregnanolone	D011280
+Alpha-Tocopherol	D024502
+Alzhemed	C486237
+ALZT-OP1
+Amantadine	D000547
+amyloid antibodies
+amyloid antibody
+AN-1792	C437846
+Anavex 2-73	C568535
+Anavex2-73	C568535
+Apocyanin	C056165
+Apomorphine	D001058
+Aripiprazole	D000068180
+Atabecestat
+Atomoxetine	D000069445
+Atorvastatin	D000069059
+autotransplant	D064592
+Avagacestat	C554092
+AVP-786
+AVP-923	C507057
+Axon peptide 108 conjugated to KLH
+Axona	C538853
+AZD1446	C578484
+AZD3480	C490152
+Azeliragon	C4519175
+BACE Inhibitor
+BAN2401	C000612089 
+Bapineuzumab	C545458
+behavioral stress	C0038435
+behavioural stress	C0038435
+Besipirdine HCl	C074872	
+Bexarotene	D000077610
+BI 1181181
+BI 409306
+BI 425809
+BIIB054
+BIIB076
+BIIB080
+BIIB092 
+Brexpiprazole	C000591922
+Buspirone	D002065
+C2N 8E12	C000628586
+CAD106	C4305639
+caloric restriction	D031204
+calorie restriction	D031204
+Caprylic Acid	C031492
+Carvedilol	D000077261
+Celecoxib	D000068579
+cell based therapy	D064987
+cell replacement	D064987  
+cell therapy	D064987
+cell-based therapy	D064987
+CERE-110	C4305865
+CERE-120	D051101	
+Cerebra capsule	C050426
+CHF 5074	C522246 
+chronic stress	C1510527
+Circadin	C1710381
+Clioquinol	D007464
+CNP520	C000628578	
+Continuous Positive Airway Pressure	D045422
+controlled cortical impact	C0876926
+Crenezumab	C573372
+Curcumin	D003474
+CVT-301	D007980
+CX516	C097396
+daily stress	D013312
+Dapsone	D003622
+DEBIO 9902	C050426 
+deep brain stimulation	D046690
+device	C0699733
+Dexpramipexole	D000077487
+diferuloylmethane	D003474
+Dimebon	C010119
+Dipraglurant	C000596095 
+Docosahexaenoic acid	D004281 
+Donepezil	D000077265 
+D-Pinitol	C021730
+Droxidopa	D015103
+Edonerpic	C4551139
+EHT 0202	C4305875 
+Elayta
+electroacupuncture	D015671
+electroconvulsive therapy	D004565
+Elenbecestat
+ELND005	C009217 
+Encenicline	C000605814
+engraft	D019737
+engrafted	D019737	
+environmental stress	C0871732
+Epigallocatechin Gallate	D059808
+Epothilone D	C114026
+Eptastigmine	C052450 
+Etanercept	D000068800 
+EVP-0962	C582516
+Exenatide	D000077270
+exendin-4	D000077270
+exercise	D015444
+Flurizan	C505522 
+Fortasyn	C000609944
+FRM-0334
+gait training	D015444
+Galantamine	D005702
+game	C0150593
+Gammagard	D016756
+Gamunex	D016756
+Gantenerumab	C571128
+GC 021109
+Gemfibrozil	D015248
+gene delivery	D015316
+gene replacement	D015316 
+gene therapy	D015316
+gene transfer	D015316
+GLN-1062	C548757
+Glutathione	D005978 
+Grafted	D019737
+grafts	D019737
+GSK239512	C584220
+GSK2647544	C000615596
+GSK933776
+HF0220
+high-fat diet	D059305
+homotaurine	C001355
+Huperzine A	C050426 
+hyperbaric oxygen	C0279328
+Ibuprofen	D007052
+Idalopirdine	C568612
+Idebenone	C036619 
+immunotherapy	D007167
+implant	C0021107
+implantation	C0021107
+implanted	C0021107		
+implants	C0021107
+Inosine	D007288 
+Intepirdine	C548140
+Isradipine	D017275
+JNJ27063699
+JNJ-63733657
+Ketasyn	C538853
+KW-6002	C0673472
+Ladostigil	C423264
+Lanabecestat	C000608388
+l-dopa	D007980
+levodopa	D007980
+Linopirdine	C061017 
+Lipopolysaccharide	C0023810
+liposomal	D008081 
+liposome	D008081
+liposomes	D008081
+Liraglutide	D000069450
+LMTM	C011010
+Longvid
+Lornoxicam	C059451
+low-fat diet	D018752
+Lu AF20513
+LU25-109 
+Lumateperone	C4305843
+LY2599666
+LY2886721	C000596181
+LY3002813
+LY3202626
+LY3303560
+magnetic stimulation	D050781
+Masitinib	C526575
+mdg548	C575274
+MEDI1814
+Melatonin	D008550 
+MEM 1003 
+Memantine	D008559
+Metrifonate	D014236 
+Microbiota	D064307
+microbiota colonization	D064307
+microbiota transplant	D000069467
+microbiota transplantation	D000069467
+microbiota transplants	D000069467
+microparticles	D008863
+microspheres	D008863
+Milameline	C084978 
+mild stress	D013312
+Minocycline	D008911
+MK-7622	C4519241
+MKC-231	C092988 
+MSDC-0160	C581095
+nanoliposomes	D053758
+nanoparticles	D053758
+nanospheres	D053758
+nanotechnology	D053758
+nanotherapeutics	D053758
+Naproxen	D009288
+Nasal Insulin	D007328
+NC-531	C486237
+ND0612
+near-intrared light	C4699843 
+Nefiracetam	C058876 
+Neflamapimod	C4477198
+Nelonicline	C000618299
+Nelotanserin	C546600
+NeoTrofin	C086241 
+Neramexane	C114144 
+neurostimulation	C0521307 
+neurotrophic factor	D009414
+neurotrophic factors	D009414
+neurotrophins	D009414
+neurturin	D051101
+NGX267	C470586 
+NIC5-15	C021730
+Nicotinamide	D009536
+Nicotine Patch	D061485
+Nilotinib	C498826
+Nilvadipine	C035100
+Nimodipine	D009553
+NPT088
+NPT200-11
+NRTN	D051101
+NS2330	C518479
+Octagam	C495669
+Omega 3 fatty acid	D015525
+ORM-12741	C000588919
+Pal1-15 acetate salt
+passive immunotherapy	D007116 
+PBT2	C531955
+PF-05212377 
+PF-05236806	C000603458
+PF-05251749
+PF-06648671
+PF-06751979
+PF-06852231 
+Pharmassure Memorall capsule	C050426 
+Phenserine	C092280 
+Photobiomodulation	D028022
+physiotherapy	C0949766
+Physostigmine Salicylate	C026718 
+Pimavanserin	C510793
+Pinitol	C021730
+Pioglitazone	D000077205
+Piromelatine	C581609
+Ponezumab	C572721 
+PQ912	C000620803
+Prazosin	D011224
+Prednisone	D011241
+Propentofylline	C032114
+ProSavin	D015316
+PRX002
+PRX-03140	C4550357 
+PXT864
+Qian ceng ta	C050426
+Rember TM	D008751
+restraint stress	D012149
+Resveratrol	D000077185
+RG3487	C554954
+RG7129
+RG7345
+Rilapladib	C000592856
+Riluzole	D019782
+Rivastigmine	D000068836
+RO 7105705
+Rofecoxib	C116926
+Rosiglitazone	D000077154
+RQ-10
+S 38093	C000624696
+S47445	C000625794
+Sabeluzole	C055163
+SAR110894D
+SAR228810
+Saracatinib	C515233
+SB 202026	C109640
+Semagacestat	C484278 
+Sembragiline	C000614721
+S-Equol	C3896945
+SGS-742	C079148
+Simvastatin	D019821
+slv308	C480679
+Solanezumab	C550616 
+Souvenaid	C000609944
+Spinal cord stimulation	D062187
+ST101	C511224
+ST 101	C511224
+ST-101	C511224
+Stem cell therapy	D013234
+Stem cells	D013234
+strength training	D015444
+stressor	C0597530
+Sunphenon EGCg	D059808
+Suritozole	C065324
+SUVN-502	C000621657
+SUVN-G3031
+SYN-120
+T3D-959
+Tacrine	D013619
+Tau aggregation inhibitor 
+Telmisartan	D000077333
+Thalidomide	D013792
+thermal-tactile stimulation
+Tideglusib	C520571
+Topiramate	D000077236
+TPI 287	C578069
+TPI-287	C578069
+training	C0220931
+Tramiprosate	C001355
+trans-3,4',5-trihydroxystilbene	D000077185 
+transcranial direct current stimulation	D065908
+Transcranial magnetic stimulation	D050781
+transplant	D019737
+transplantation	D014180
+transplanted	D014180
+transplants	D019737
+traumatic brain injury	D001930
+Tropicamide	D014331
+UB 311
+UCB0107
+UWA-122	C579241
+Valproate	D014635
+Vanutide cridificar	C000603458
+Varenicline	D000068580
+Verubecestat	C000613570
+Vitamin E	D014810
+Vivimind	C486237
+VY-AADC
+Xaliproden	C462299
+XanamemTM	C000621522
+Xanamem	C000621522
+xenografts	D064593
+XP21279
+ZT-1	C050426

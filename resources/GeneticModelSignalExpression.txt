@@ -1,0 +1,25 @@
+C0025936|Mice, Transgenic|mamm
+C0206745|Mice, Knockout|mamm
+C1517499|Gene Transfer|mbrt
+C0185117|Expression procedure|topp
+mutant
+mutants
+transgenic
+loss-of-function
+loss of function
+overexpression
+null
+silencing
+deficient
+deficiency
+loss of
+silenced
+ASO
+adeno-associated virus
+AAV
+lentiviral
+lentiviral expression
+adenoviral expression 
+gene transfer
+wild-type
+WT

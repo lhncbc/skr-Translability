@@ -1,0 +1,44 @@
+administered|pos
+administer|pos
+ameliorate|pos
+alleviate|pos
+attenuate|neg
+augment|pos
+benefit|pos
+beneficial|pos
+curative|pos
+cures|pos
+confer|pos
+cause|neutral
+counteracts|pos
+efficacy| pos
+effective| pos
+efficacious| pos
+extend| pos
+facilitates| pos
+facilitate| pos
+improve| pos
+inhibitory| neg
+inhibitor| neg
+inhibits| neg
+no effect|neg
+ineffective|neg
+potent|pos
+prevent|pos
+promote|pos
+protect|pos
+reduce|neg
+rescue|pos
+restore|pos
+retard|neg
+reverse|neg
+safety|pos
+is safe|pos
+support|pos
+suppress|neg
+salvage|pos
+slow|neg
+treatment|pos
+treat|pos
+therapeutic|pos
+useful|pos

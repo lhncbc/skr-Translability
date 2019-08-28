@@ -1,0 +1,195 @@
+C0030705	Patients	Human	1
+C0004398	autopsy	Human	1
+Patient cohort	Patient cohort	Human	1
+C2349001	Human Study Subject	Human	1
+C0178693	human study	Human	1
+C2697811	Investigative Subject	Human	1
+C0008976	Clinical Trials	Human	1
+Clinical Trial	Clinical Trial	Human	1
+C0206012	Multicenter Trials	Human	1
+C0680731	Clinical Trial Type	Human	1
+C1096775	Clinical Trial [Publication Type]	Human	1
+C1096776	Multicenter Study	Human	1
+People	People	Human	1
+Placebo	Placebo	Human	1
+Mouse	Mouse	Mouse	1
+Mice	Mice	Mouse	1
+C0025917	Mice, Inbred A	Mouse	1
+C0025918	Mice, Inbred AKR	Mouse	1
+C0025920	Mice, Inbred C3H	Mouse	1
+C0025921	Mice, Inbred C57BL	Mouse	1
+C0025922	Mice, Inbred CBA	Mouse	1
+C0025923	Mice, Inbred DBA	Mouse	1
+C0025924	Mice, Hairless	Mouse	1
+C0025925	Mice, Inbred ICR	Mouse	1
+C0025926	Mice, Inbred NZB	Mouse	1
+C0025928	Mice, Jimpy	Mouse	1
+C0025932	Mice, Nude	Mouse	1
+C0025933	Mice, Obese	Mouse	1
+C0025934	Mice, Quaking	Mouse	1
+C0025936	Mice, Transgenic	Mouse	1
+C0027762	Nervous Mice	Mouse	1
+C0034921	Reeler Mice	Mouse	1
+C0038125	Staggerer Mice	Mouse	1
+C0025914	House mice	Mouse	1
+C0025929	Laboratory mice	Mouse	1
+C0026809	Mus	Mouse	1
+C0751318	Mus domesticus	Mouse	1
+C0999674	Mus caroli	Mouse	1
+C0999675	Mus pahari	Mouse	1
+C0999676	Mus saxicola	Mouse	1
+C0999677	Mus spretus	Mouse	1
+C0999678	Mus cervicolor	Mouse	1
+C0999679	Mus cookii	Mouse	1
+C0999680	Mus macedonicus	Mouse	1
+C0162418	Mouse, Hyperglycemic	Mouse	1
+C0591833	Murine	Mouse	1
+murine model	murine model	Mouse	1
+Mouse model	mouse model	Mouse	1
+Rat	Rat	Rat	1
+Rats	Rats	Rat	1
+C0034693	Rattus norvegicus	Rat	1
+C0034721	Rattus	Rat	1
+C0034694	Rats, Brattleboro	Rat	1
+C0034695	Rats, Cotton	Rat	1
+C0034696	Rats, Gunn	Rat	1
+C0034698	Rats, Inbred ACI	Rat	1
+C0034699	Rats, Inbred BB	Rat	1
+C0034700	Rats, Inbred BN	Rat	1
+C0034701	Rats, Inbred BUF	Rat	1
+C0034703	Rats, Inbred F344	Rat	1
+C0034704	Rats, Inbred Lew	Rat	1
+C0034705	Rats, Inbred SHR	Rat	1
+C0034706	Rats, Inbred Strains	Rat	1
+C0034707	Rats, Inbred WF	Rat	1
+C0034709	Rats, Inbred WKY	Rat	2
+Rodent	Rodent	Rodent	2
+Rodents	Rodents	Rodent	2
+Rodent model	Rodent model	Rodent	1
+Macaque	Macaque	Macaque	1
+C0024398	Macaca	Macaque	1
+C0004741	Barbary Ape	Macaque	1
+C0024399	Macaca fascicularis	Macaque	1
+C0024400	Macaca mulatta	Macaque	1
+C0024401	Macaca nemestrina	Macaque	1
+C0024402	Macaca radiata	Macaque	1
+C0026440	Japanese monkeys	Macaque	1
+C0085829	Black Ape	Macaque	1
+C0324830	Macaca silenus	Macaque	1
+C0324832	Macaca sinica	Macaque	1
+C0324833	Macaca arctoides	Macaque	1
+C0598799	Philippine macaque	Macaque	1
+C0999522	Macaca assamensis	Macaque	1
+C1009120	Macaca tonkeana	Macaque	1
+C1033115	Macaca cyclopis	Macaque	1
+C1040369	Macaca maura	Macaque	1
+C1040371	Macaca ochreata	Macaque	1
+C1621298	Macaca fuscata	Macaque	1
+Marmoset	Marmoset	Marmoset	1
+C0006764	Callithrix	Marmoset	1
+C0006765	Callithrix jacchus jacchus	Marmoset	1
+C0324806	Saguinus imperator	Marmoset	1
+C0324807	Callithrix pygmaea	Marmoset	1
+C0324810	Leontopithecus rosalia	Marmoset	1
+C0999502	Callithrix argentata	Marmoset	1
+C1016533	Callithrix geoffroyi	Marmoset	1
+C0024834	Marmoset, Cotton-Top	Marmoset	1
+C0036052	Saguinus	Marmoset	1
+C0324808	Saguinus nigricollis	Marmoset	1
+C0324809	Saguinus midas	Marmoset	1
+C1016534	Callithrix humeralifera	Marmoset	1
+C1020093	Callithrix jacchus aurita	Marmoset	1
+C1020096	Callithrix penicillata	Marmoset	1
+C3672311	Callithrix flaviceps	Marmoset	1
+C3058772	Callithrix kuhlii	Marmoset	1
+Vervet monkey	Vervet monkey	Vervet monkey	1
+C0079851	Cercopithecus tantalus	Vervet monkey	1
+C0598114	vervet	Vervet monkey	1
+C0026438	Cercopithecus aethiops	Vervet monkey	1
+C1504085	Cercopithecus pygerythrus	Vervet monkey	1
+Baboon	Baboon	Baboon	1
+C0030362	Papio	Baboon	1
+C0324820	Papio hamadryas	Baboon	1
+C0039827	Gelada	Baboon	1
+C0324814	Mandrillus sphinx	Baboon	1
+C0324815	Drill baboon	Baboon	1
+C0324817	Papio ursinus	Baboon	1
+C0324818	Papio cynocephalus	Baboon	2
+Monkey	Monkey	Non-human primate	2
+C0026447	Monkeys	Non-human primate	2
+C0237798	Nonhuman primate	Non-human primate	2
+Non-human primate	  Non-human primate	Non-human primate	2
+Non-human primates	Non-human primates	Non-human primate	2
+Nonhuman primates	  Nonhuman primates	Non-human primate	2
+Primates	Primates	Non-human primate	1
+Fly	Fly	Drosophila	1
+C0013138	Drosophila	Drosophila	1
+worm	worm	Worm	1
+worms	worms	Worm	1
+C0162610	Caenorhabditis elegans	Worm	1
+C. elegans	C. elegans	Worm	1
+zebrafish	zebrafish	Zebrafish	1
+C0998846	Genus Danio	Zebrafish	1
+C0043457	Zebrafish	Zebrafish	1
+Frog	Frog	Frog	1
+C0043343	Xenopus laevis	Frog	1
+Xenopus	Xenopus	Frog	1
+Dog	Dog	Dog	1
+C0012984	Canis familiaris	Dog	1
+Canine	canine	Dog	1
+Cat	Cat	Cat	1
+C0007450	Felis catus	Cat	1
+feline	feline	Cat	1
+Rabbit	Rabbit	Rabbit	1
+C0178727	Laboratory rabbit	Rabbit	1
+C3887509	Rabbits	Rabbit	1
+C0034493	Domestic Rabbit	Rabbit	1
+Yeast	Yeast	Yeast	1
+C0036025	Saccharomyces cerevisiae	Yeast	1
+C0036024	Saccharomyces	Yeast	1
+S. cerevisiae	S. cerevisiae	Yeast	1
+neuroblastoma cell line	 neuroblastoma cell line	Cell line	1
+neuroblastoma cells	neuroblastoma cells	Cell line	1
+C000760Cultured Cell Line	Cell line	1
+cultured cells	cultured cells	Cell line	1
+C0007601	Cell Line, Transformed	Cell line	1
+cell culture	cell culture	Cell line	1
+cell line	cell line	Cell line	1
+C6 cells	C6 cells	Cell line	1
+C0085262	PC12 Cells	Cell line	1
+C0085983	Cell Line, Tumor	Cell line	1
+C0596890	MCF-7 Cells	Cell line	1
+C0597447	Sf9 cell line	Cell line	1
+SH-SY5Y cells	SH-SY5Y cells	Cell line	1
+Neuro-2a cells	Neuro-2a cells	Cell line	1
+C0598088	continuous cell line	Cell line	1
+C0598089	established cell line	Cell line	1
+C0598090	permanent cell line	Cell line	1
+C0598091	stable cell line	Cell line	1
+C0682517	animal cell line	Cell line	1
+C0682519	rodent cell line	Cell line	1
+C0682520	canine cell line	Cell line	1
+C0682521	primate cell line	Cell line	1
+C0682523	human cell line	Cell line	1
+C0682524	fibroblast cell line	Cell line	1
+C0682526	lymphoblastoid cell line	Cell line	1
+C0682527	hybrid cell line	Cell line	1
+C0814990	neural cell line	Cell line	1
+human cell line	human cell line	Cell line	1
+human iPS cells	human iPS cells	Cell line	1
+iPS cells 	iPS cells 	Cell line	1
+iPSC-derived neurons	iPSC-derived neurons	Cell line	1
+rat cells 	rat cells 	Cell line	1
+rat cell line	rat cell line	Cell line	1
+mouse cell line	mouse cell line	Cell line	1
+mouse cells 	mouse cells 	Cell line	1
+Cell Culture	Cell Culture	Cell line	1
+BV-2 cells	BV-2 cells	Cell line	2
+C0012644	Animal Disease Models	Animal model	2
+C0599779	Animal Model	Animal model	2
+C0887965	Experimental Animal Models	Animal model	2
+C0887966	Laboratory Animal Models	Animal model	2
+C1515655	in vivo	Animal model	2
+C0003064	Animals, Laboratory	Animal model	2
+C0003069	Animals, Transgenic	Animal model	2
+Animals	Animals	Animal model	2	

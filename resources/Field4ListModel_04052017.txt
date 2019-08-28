@@ -1,0 +1,178 @@
+1-benzyl-1,2,3,4-tetrahydroisoquinoline (1BnTIQ)	1BnTIQ
+1-methyl-1,2,3,6-tetrahydropyridine	1BnTIQ
+1BnTIQ	1BnTIQ
+ 6-hydroxy-dopamine	6-OHDA
+ 6-hydroxy-dopamine-lesioned	6-OHDA
+ 6-hydroxydopamine-treated	6-OHDA
+6-hydroxydopamine	6-OHDA
+6-hydroxydopamine-induced	6-OHDA
+6-hydroxydopamine-lesioned	6-OHDA
+6-OHDA	6-OHDA
+6-OHDA-induced	6-OHDA
+6-OHDA-treated	6-OHDA
+C0085196   Oxidopamine 	6-OHDA
+C0661625   6-hydroxydopamine quinone 	6-OHDA
+Oxidopamine	6-OHDA
+Oxidopamine|C0085196|orch,phsu	6-OHDA
+6-OH-dopamine	6-OHDA
+ C6 cell	C6 cells
+ C6 cells	C6 cells
+Choline O-Acetyltransferase	Choline O-Acetyltransferase
+conduritol	Conduritol
+ induced, induction	Genetically altered model
+ inhibited expression, inhibit expression	Genetically altered model
+(-/-) 	Genetically altered model
+(-/-) mice	Genetically altered model
+AAV-mediated, AAV-induced	Genetically altered model
+ablation, ablated, ablate	Genetically altered model
+adenoviral-mediated, adenoviral-induced 	Genetically altered model
+C0025936|Mice, Transgenic|mamm	Genetically altered model
+C0206745|Mice, Knockout|mamm	Genetically altered model
+C1517499|Gene Transfer|mbrt	Genetically altered model
+C2350567   Gene Knockdown Techniques 	Genetically altered model
+CAS9	Genetically altered model
+CRISPR	Genetically altered model
+conditional 	Genetically altered model
+deficient, deficiency 	Genetically altered model
+deletion, deleted	Genetically altered model
+floxed	Genetically altered model
+floxed allele	Genetically altered model
+germline	Genetically altered model
+genetic model	Genetically altered model
+hemizygous	Genetically altered model
+heterozygous	Genetically altered model
+homozygous	Genetically altered model
+knockdown	Genetically altered model
+knockout, knockouts	Genetically altered model
+knock-in	Genetically altered model
+knockin	Genetically altered model
+KO mice	Genetically altered model
+lacking, lack of 	Genetically altered model
+lentiviral	Genetically altered model
+lentiviral expression	Genetically altered model
+loss of function	Genetically altered model
+loss-of-function	Genetically altered model
+Mitochondrial DNA (mtDNA) mutator	Genetically altered model
+MitoPark	Genetically altered model
+MitoPark mice	Genetically altered model
+morpholino, morpholinos	Genetically altered model
+mtDNA mutator mouse 	Genetically altered model
+mutant, mutants	Genetically altered model
+Mutator	Genetically altered model
+Mutator mice	Genetically altered model
+overexpression,overexpressing, overexpressed, overexperessor	Genetically altered model
+Pitx3	Genetically altered model
+silencing, silenced	Genetically altered model
+Syn-GFP mouse line	Genetically altered model
+synuclein  model	Genetically altered model
+synuclein marmoset model	Genetically altered model
+synuclein monkey model	Genetically altered model
+a-synuclein mouse model	Genetically altered model
+synuclein mouse model	Genetically altered model
+a-synuclein rat model	Genetically altered model
+synuclein rat model	Genetically altered model
+a-synuclein expressing	Genetically altered model
+synuclein-expressing	Genetically altered model
+a-synuclein induced	Genetically altered model
+synuclein-induced	Genetically altered model
+a-synuclein mediated	Genetically altered model
+synuclein-mediated	Genetically altered model
+Tfam	Genetically altered model
+transgenic, transgene	Genetically altered model
+transduced, tranduction	Genetically altered model
+underexpression, underexpressed, underexpressing	Genetically altered model
+wild-type	Genetically altered model
+WT animal	Genetically altered model
+WT mice	Genetically altered model
+haloperidol 	Haloperidol 
+Haloperidol|C0018546|orch,phsu	Haloperidol 
+hemilesioned	Hemi-parkinsonian
+hemiparkinsonian	Hemi-parkinsonian
+lactacystin	Lactacystin
+L-DOPA induced dyskinesia 	Levodopa-induced dyskinesia
+levodopa-induced dyskinesia	Levodopa-induced dyskinesia
+LID	Levodopa-induced dyskinesia
+levodopa-induced dyskinesias	Levodopa-induced dyskinesia
+LIDs	Levodopa-induced dyskinesia
+LPS	Lipopolysaccharide induced model
+LPS-	Lipopolysaccharide induced model
+LPS-induced	Lipopolysaccharide induced model
+LPS-infused	Lipopolysaccharide induced model
+LPS-injected	Lipopolysaccharide induced model
+LPS-treated	Lipopolysaccharide induced model
+LPS-lesioned	Lipopolysaccharide induced model
+ lipopolysaccharide (LPS)-injected	Lipopolysaccharide induced model
+(LPS)-injected	Lipopolysaccharide induced model
+endotoxin	Lipopolysaccharide induced model
+lipolysaccharide	Lipopolysaccharide induced model
+lipopolysaccharide	Lipopolysaccharide induced model
+lipopolysaccharide (LPS)	Lipopolysaccharide induced model
+lipopolysaccharide (LPS)-injected	Lipopolysaccharide induced model
+lipopolysaccharide induced	Lipopolysaccharide induced model
+C0024705   Maneb 	Maneb
+Maneb	Maneb
+1-Methyl-4-phenylpyridinium	MPP
+1-Methyl-4-phenylpyridinium|C0000098|hops,orch	MPP
+C0000098   1-Methyl-4-phenylpyridinium 	MPP
+MPP	MPP
+(MPTP)	MPTP
+1-benzyl-1,2,3,4-tetrahydroisoquinoline 	MPTP
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) 	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated 	MPTP
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|C0000097|hops,orch	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropytidine	MPTP
+C0000097	MPTP
+C0000097   1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine 	MPTP
+C0044444   1-methyl-4-(2'-methylphenyl)-1,2,3,6-tetrahydropyridine 	MPTP
+C0626122   1-methyl-4-(4-chlorophenyl)-1,2,3,6-tetrahydropyridine 	MPTP
+C0639186   1,3,3-trimethyl-4-phenyl-1,2,3,6-tetrahydropyridine 	MPTP
+C0658895   1-methyl-4-(2-(fluoromethyl)phenyl)-1,2,3,6-tetrahydropyridine 	MPTP
+C0751864   MPTP-Induced Degeneration of the Striatum 	MPTP
+MPTP	MPTP
+MPTP-intoxication	MPTP
+MPTP-lesioned	MPTP
+MPTP-treated	MPTP
+ 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated	MPTP
+MPTPp	MPTPp
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine and probenecid 	MPTPp
+hemiparkinsonian	Hemi-parkinsonian
+hemi-parkinsonian	Hemi-parkinsonian
+hemilesioned	Hemi-parkinsonian
+hemi-lesioned	Hemi-parkinsonian
+C0030493   Paraquat 	Paraquat
+Paraquat	Paraquat
+PC12	PC12 cells
+C0085262 PC12 Cells	PC12 cells
+ Neuro-2a cells	 Neuro-2a cells
+DAergic neuronal cell line	Dopaminergic cell line
+Dopaminergic cell line	Dopaminergic cell line
+ CATH.a	Dopaminergic cell line
+reserpine	Reserpine
+Reserpine|C0035179|orch,phsu	Reserpine
+C0035871   Rotenone 	Rotenone
+Rotenone	Rotenone
+rotenone-exposed	Rotenone
+rotenone-induced	Rotenone
+Rotenone|C0035871|hops,orch	Rotenone
+SH-SY5Y	SH-SY5Y cells 
+SH-SY5Y cells 	SH-SY5Y cells 
+tetrabenazine	Tetrabenazine
+Tremulous jaw movements 	Tremulous jaw movement model
+TBZ-induced	Tremulous jaw movement model
+Tremulous jaw movements 	Tremulous jaw movement model
+TJMs	Tremulous jaw movement model
+Dopaminergic cells	Dopaminergic cells
+Galantamine	Galantamine
+TMT	Trimethyltin
+trimethyltin	Trimethyltin
+Trimethyltin	Trimethyltin
+lentiviral-induced	Genetically altered model
+Pharmacological Model 	Pharmacological Model 
+human iPS cells	iPS cells 
+iPS cells 	iPS cells 
+iPSC-derived neurons	iPS cells 
+C6 cells	C6 cells
+BV-2 cells	BV-2 cells
+neuroblastoma cells	neuroblastoma cells

@@ -1,0 +1,6 @@
+Amino Acid, Peptide, or Protein|aapp
+Gene or Genome|gngm
+Gene or Gene Product|gngp
+Mitopark mouse
+Mitopark
+synuclein

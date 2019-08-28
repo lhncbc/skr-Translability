@@ -1,0 +1,815 @@
+"off" time
+"on" time
+"on-time"
+(updrs)
+6-min walk test
+7-point scale rating subjective discomfort
+abdominal pain
+abnormal involuntary movement
+abnormal involuntary movement scale
+abnormal involuntary movements
+abnormal involuntary movements (aims)
+accelerating rotarod
+acceptability
+activities of daily living
+activities of daily living scores
+activities of daily living subscales
+activities of daily living subscore (part ii) of the updrs
+activities-specific balance confidence
+activity
+activity level
+adherence
+adherence to daily walking
+adjunctive levodopa dose
+adjusted stepping
+adl
+adl rating
+adl subscore
+adverse drug reactions
+adverse effects
+adverse event
+adverse event (ae)
+adverse events
+adverse events (aes)
+affecting antiparkinsonian action
+agitation
+aim
+aims
+aims scores
+akinesia
+ambulatory locomotor activity
+amphetamine-induced rotation behaviour
+amphetamine-induced turning behavior
+anhedonia
+anhedonic-like behavior
+antidepressant activity
+antidyskinetic
+antidyskinetic effect
+antidyskinetic effects
+antidyskinetic efficacy
+antidyskinetic therapies
+anti-parkinson effects
+anti-parkinson efficacy
+antiparkinsonian
+anti-parkinsonian
+anti-parkinsonian action
+antiparkinsonian actions of l-dopa.
+antiparkinsonian activity
+anti-parkinsonian activity
+antiparkinsonian benefit (on-time)
+antiparkinsonian benefits
+anti-parkinsonian benefits
+antiparkinsonian effect
+anti-parkinsonian effect
+antiparkinsonian effect of l-dopa
+antiparkinsonian effects
+anti-parkinsonian effects
+antiparkinsonian properties
+antiparkinsonian response to l-dopa
+anti-parkinson's effects
+antipsychotic benefit
+anxiety-related behavior
+apomorphine-caused rotation
+apomorphine-induced circling behaviour
+apomorphine-induced climbing
+apomorphine-induced rotational behavior
+apomorphine-induced rotational behavior (circling)
+apomorphine-induced turning
+application site reactions (asrs)
+asrs
+asthenia
+attendance
+attrition rates
+awake time
+awake time spent "off"
+axial functions
+axial turning
+'bad' on-time (on-time with disabling dyskinesia)
+balance
+bar-test
+beck depression inventory
+behavior
+behavioral
+behavioral activity
+behavioral alterations
+behavioral changes
+behavioral deficits
+behavioral detection
+behavioral effects
+behavioral functioning
+behavioral impairmen
+behavioral impairment
+behavioral impairments
+behavioral improvement
+behavioral measures
+behavioral measures of motor parkinsonism
+behavioral outcome
+behavioral parameters
+behavioral performance
+behavioral rating scales
+behavioral recovery
+behavioral response
+behavioral scores
+behavioral symptoms
+behavioral task
+behavioral test
+behavioral tests
+behaviors
+behavioural
+behavioural data
+behavioural effects
+behavioural rating scale covering parkinsonian symptoms
+behavioural test
+behavioural test scores
+behavioural tests
+behaviours
+beneficial effect
+berg balance scale
+bilateral forelimb use
+biochemical analyses
+biochemical and electrophysiological data
+blinded video assessment
+blink abnormalities
+blink hyperexcitability
+blink plasticity
+blink rate
+blood levels
+blood pressure (bp)
+body temperature
+body weight
+body weight reduction
+bradykinesia
+brief psychiatric rating scale
+catalepsy
+catalepsy score
+catalepsy test
+cause sedation
+change in daily "off" time from baseline.
+change in total updrs score (parts i-iii)
+chorea
+choreic lid
+choreiform and dystonic dyskinesia
+circling
+clinical
+clinical amelioration
+clinical application
+clinical benefit
+clinical deterioration
+clinical dyskinesia rating scale
+clinical effects
+clinical efficacy
+clinical global impression
+clinical global impression of change (p-cgi-c).
+clinical global impression scale
+clinical global impression-improvement (cgi-i)
+clinical global impression-improvement scale
+clinical global impressions scale
+clinical improvement
+clinical parameters
+clinical rating scale
+clinical rating scales
+clinical rating score
+clinically relevant improvements
+clinically relevant parameters
+clinically relevant pd symptoms
+clinically useful
+cognition
+cognitive
+cognitive abilities
+cognitive and motor domains
+cognitive behavior deficits
+cognitive deficiency
+cognitive deficits
+cognitive function
+cognitive impairment
+cognitive performance
+cognitive tests
+cognitive-enhancing
+complex motor skills of hand-eye coordination for controlled movements
+compliance
+complication of device insertion
+computerized fine motor skills task
+confusional state
+constipation
+contralateral forelimb use
+contralateral rotations
+coordination
+csf samples
+cylinder task
+cylinder test
+daily activity counts
+daily levodopa dose
+daily off time
+daily off-time
+daytime sleepiness
+death
+decreased blood pressure
+deficit of motor function
+deficits
+delusions
+dementia phenotypes
+depression
+depressive-like behavior
+depressive-like behaviors
+despair-like behaviors
+deterioration
+detrimental effects
+development of a disability
+diary data
+died
+disability
+disability requiring dopaminergic therapy
+disabling dyskinesia
+discontinuation
+disease development
+disease progression
+disease state assessment by the patient
+disease-modifying effect
+dizziness
+dizziness/lightheadedness
+dizziness/lightheadedness score (ohq item 1)
+dopamine dysregulation syndrome (dds).
+dopaminergic response
+dose increase of dopaminergic therapy
+dose of levodopa
+dose-response relationship
+duration and quality of on-time
+duration of on-time
+dysarthria
+dysfunction scores
+dyskinesia
+dyskinesia ratings
+dyskinesia scores
+dyskinesia.
+dyskinesia-like behavior
+dyskinesia-like effects
+dyskinesias
+dyskinetic
+dyskinetic behavior
+dyskinetic effects
+dysphagia
+dystonia
+dystonic lid
+ecg recordings.
+effect
+effective
+effects of levodopa
+efficacious
+efficacy
+efficary
+electrocardiogram
+electrocardiogram parameters
+electroencephalographic monitoring
+elevated body swing
+elevated plus-maze
+emotional well-being
+employed
+eosinophil count
+epworth sleepiness scale
+eq-5d
+escape latency time
+european quality of life five-dimension questionnaire
+existing therapies
+experiences of daily living
+exploratory activity
+exploratory behavior
+extent of rotigotine exposure
+f behavioral tests
+fall
+fall-related injuries
+falls
+falls efficacy scale
+falls rate
+fatigue
+fatigue scales
+feasibility
+feeding behavior
+fitness benefits
+flanker task scores
+flat body posture
+for adverse events
+forced expiratory volume
+forced swim
+forced swim task
+forced swim test
+forced swimming tests
+forelimb akinesia
+forelimb impairments
+forelimb use
+forepaw stepping adjustment test
+freezing of gait
+full body rotations
+function
+functional
+functional capacity
+functional decline
+functional effects
+functional impairment
+functional improvement
+functional motor deficits
+functional reach test
+further investigation
+gait
+gait analysis
+gait characteristics
+gait impairments
+gait speed
+gastrointestinal effects
+general health evaluations
+global function
+global parkinsonian score
+global quality of sleep
+grip strength
+hads scores
+hallucination
+hallucinations
+hand dexterity
+hand-eye coordination
+hand-eye coordination capabilities
+hand-eye coordination.
+head position bias
+headache
+health measures
+heart rate
+heart rate reserve
+hoehn & yahr
+hoehn and yahr stage 3-4
+home-cage activity
+hospital anxiety and depression scale (hads)
+hospital anxiety depression scale
+hot-plate tests
+hours of "on" time without troublesome dyskinesis
+hours per day spent in the off-state
+hours/day spent in off and on states
+hy stage
+hyperactivity
+hyperalgesia
+hyperlocomotion
+hypersensitivity reaction
+hypoactivity
+hypokinetic dysarthria
+hypolocomotive effects
+hypolocomotor activity
+hypotension
+immobility
+immobility time
+improvements
+impulse control disorders (icd)
+in amphetamine-induced rotations
+in mobility
+initiate levodopa
+insomnia
+interaction history
+investigator- and patient-rated global impressions
+involuntary movements
+ipsilateral rotations
+jumping activity
+jumping behavior
+kinematic analyses of peak upper extremity velocity
+kurlan scale
+l-3,4-dihydroxyphenylalanine (l-3,4-dihydroxyphenylalanine-dopa)-induced dyskinesia (lid)
+l-3,4-dihydroxyphenylalanine (l-dopa)-induced dyskinesia
+l-3,4-dihydroxyphenylalanine (l-dopa)-induced dyskinesia (lid)
+l-3,4-dihydroxyphenylalanine (l-dopa)-induced dyskinesias (lid)
+l-dopa anti-parkinsonian action
+l-dopa anti-parkinsonian efficacy
+l-dopa dose failures
+l-dopa from inducing dyskinesia
+l-dopa-induced
+l-dopa-induced activity
+l-dopa-induced dyskinesia
+l-dopa-induced dyskinesia (lid)
+l-dopa-induced dyskinesias
+l-dopa-induced dyskinesias (lid)
+l-dopa-induced dyskinesias (lids)
+l-dopa-induced rotations
+l-dopa-induced side-effects
+l-dopa-induced turning
+l-dopa-induced turning behavior
+l-dopa-induced-dyskinesias.
+learning
+learning deficit
+levodopa
+levodopa efficacy
+levodopa use
+levodopa-induced dyskinesia
+levodopa-induced dyskinesia (lid)
+levodopa-induced dyskinesias
+levodopa-sparing
+lid
+lid scores
+lids
+lightheadedness
+locomotion
+locomotor
+locomotor ability
+locomotor activity
+locomotor deficits
+locomotor dysfunction
+locomotor effects
+locomotor motor activity
+long-term behavioral effects
+lower lip retraction
+malaise
+mattis dementia rating scale
+maximum oxygen consumption
+mds-updrs
+mds-updrs part 3 motor subscale
+mean daily "off" time
+mean standing systolic blood-pressure change
+mean updrs ii+iii total scores
+measure of pd progression
+median pharyngeal delay time
+median pharyngeal transit time
+memory
+memory function
+memory impairment
+mini mental test examination
+mmse
+modified freezing of gait questionnaire
+montgomery asberg depression rating scale
+morris water maze test
+motor abnormalities
+motor activity
+motor and activities of daily living
+motor and cognitive deficits
+motor and cognitive measures
+motor and non-motor deficits
+motor and non-motor functions
+motor and non-motor measures
+motor balance
+motor behavior
+motor behavior test
+motor behaviors
+motor behaviour
+motor behavioural testing
+motor benefit
+motor changes
+motor complications
+motor component of the updrs
+motor control
+motor coordination
+motor deficit
+motor deficits
+motor disability
+motor disability.
+motor dysfunction
+motor dysfunctions
+motor effect
+motor effects
+motor fluctuations
+motor function
+motor function deficits
+motor function tests
+motor functioning
+motor functions
+motor impairment
+motor impairments
+motor improvement
+motor performance
+motor performance.
+motor rating scales
+motor recovery
+motor response
+motor responses
+motor score
+motor scores
+motor signs
+motor state diaries
+motor subscore
+motor sub-score
+motor subscore of the unified parkinson's disease rating scale (updrs)
+motor symptoms
+motor tests
+motor updrs scores
+motoric
+movement abnormalities
+movement balance
+movement disorders society unified parkinson's disease rating scale (mds-updrs)
+movement time (mt)
+movement-related behavior
+movements
+mptp-induced motor deficits
+muscle rigidity
+muscle strength test
+muscle tone during rem and non-rem sleep episodes
+narrow beam task
+nausea
+nausea and dizziness
+neither of the two compounds modified the development of dyskinetic behaviours
+neurobehavioral
+neurogenic orthostatic hypotension (noh)
+neuroimaging
+neurological functions
+neuromuscular symptom assessments
+neuropsychiatric
+neuropsychiatric-like behaviours
+neuropsychological testing
+night sleep parameters
+nocturnal symptoms
+non-dyskinetic
+non-motor behavior
+nonmotor complications
+non-motor symptoms
+nonmotor tests
+non-motor tests
+normalization of gait
+novelty-induced locomotor activity
+number of awakenings
+object recognition test
+of motor behavior
+'off' episodes
+off periods
+off state
+off time
+off time duration
+'off' to 'on'
+off-medication state
+off-medication updrs motor scores
+off-time as a percentage of waking hours
+ohq composite score
+ohq symptom subscore
+olfaction
+olfactory discrimination
+on "period"
+on time
+on' time
+on-medication dyskinesias
+on-off phenomena
+onset of disability
+on-time
+open field
+open field test
+open field tests
+open-field locomotion
+optimal dose
+oral clearance
+oral tremor
+orthostatic hypotension
+orthostatic hypotension questionnaire (ohq) composite score
+panss
+parkinsonian disability
+parkinsonian effects
+parkinsonian motor ratings
+parkinsonian motor symptoms
+parkinsonian scores
+parkinsonian signs
+parkinsonian symptoms
+parkinsonism
+parkinsonism score
+parkinson's disease diaries completed by patients
+parkinson's disease psychosis
+parkinson's disease questionnaire
+parkinson's disease questionnaire (pdq-39)
+parkinson's disease score
+parkinson's disease-adapted scale for assessment of positive symptoms (saps-pd)
+parkinson's motor severity assessments by a clinician
+parkinson's-related behaviors
+passive avoidance task
+patient diaries
+patient diary
+patient mood
+patient self-ratings on the orthostatic hypotension questionnaire (ohq)
+patient-reported falls
+patients' balance
+pd disability
+pd motor symptoms
+pd sleep scale
+pd symptoms
+pdq-39
+pdq-39 subscales
+pdq-39 subscales of mobility
+pdq-39 subscores
+pdq-39 summary
+peripheral edema
+pet signal
+pet value
+pharmacokinetic analyses
+pharmacokinetic assessments
+pharmacokinetics
+pharyngeal delay times
+pharyngeal swallow
+physiological results
+placebo
+plasma apomorphine levels
+plasma concentration
+plasma concentrations
+plasma levels
+plasma mpep concentrations
+plasma, cerebrospinal fluid, and brain levels
+pole and traction tests
+pole test
+pole tests
+positive and negative syndrome scale
+positron emission computerized tomography
+positron emission tomography
+positron emission tomography (pet)
+positron emission tomography (pet) imaging with [(18)f]fluoro-l-m-tyrosine tracer
+positron emission tomography imaging
+postural
+postural instability
+posture
+posturographic measures
+prehension task
+primary outcome
+procedural pain
+prolong cardiac repolarization
+psychological outlook
+psychosis
+psychosis-like behaviours
+psychosis-like-behaviors
+psychotic disorder
+psychotic symptoms
+purdue pegboard test
+qol
+qtc interval (delta delta qtc (ddqtc))
+quality of life
+quality of life-visual analog scale (qol-vas)
+quality-of-life measures
+rapid eye movement behavioral disorder (rbd)
+rates of admission to hospital
+reaction time (rt).
+reaction times
+reduction in off time
+reduction of l-dopa
+reductions in antiparkinsonian medications
+rem sleep
+requiring dopaminergic treatment
+response to levodopa
+response to levodopa.
+resting tremor
+retention rate
+rigidity
+risk; give up full-time employment
+rota rod
+rotarod
+rotarod activity
+rotarod performance
+rotarod test
+rotarod tests
+rotary performance tests
+rotation tests
+rotational assessments
+rotational behavior
+rotational behavior test
+rush dyskinesia rating scale
+safe
+safe and well tolerated
+safety
+safety and tolerability
+safety assessments
+safety concerns
+safety evaluations
+safety, tolerability, and efficacy
+saps global measures
+satisfaction
+scale for the assessment of positive symptoms (saps)
+scales of activities of daily living (adl)
+schwab and england (se) adl scale.
+sedation
+self-scoring diaries
+sensorimotor coordination
+serious events
+serious injuries
+severe feeding deficit
+short-form (sf)-36
+shuttle box apparatus
+side effects
+simpson-angus scale
+single-photon emission computed tomography
+sleep alterations
+sleep architecture
+sleep disorders
+sleep efficiency
+sleep episodes during daytime
+sleep fragmentation
+sleep parameters
+sleep quality
+sleepiness
+slow-wave sleep
+small fast movements
+social interaction test
+social recognition memory
+somnolence
+spatial cognition task
+spatial learning
+spect
+speech deficits
+spontaneous locomotion
+standard clinical rating scale; unified parkinson's disease rating scale; updrs
+standing a long time
+standing systolic blood pressure (bp)
+startle response
+stereotypy
+stigma and communication
+sucrose consumption
+sucrose preference test
+supine systolic bp
+survival rate
+swallow
+swallowing
+swim activity
+swim test
+swimming speed
+swimming time
+symptom
+symptom amelioration
+symptom impact on daily activities
+symptom severity
+symptom-impact subscore
+symptoms
+systolic blood pressure
+tail-flick
+tbz-induced oral tremor
+test battery for attention performances (tap)
+tests of forelimb use and akinesia
+the safety
+therapeutic effect
+therapeutic effect of l-dopa
+therapeutic effects of l-dopa
+therapeutic efficacy
+therapeutic response of l-dopa
+time spent in rapid eye movement (rem) sleep
+time to levodopa
+time up and go
+timed up and go
+tjms
+t-maze test
+tolerability
+tolerated
+total distance travelled
+total levodopa equivalent dose
+total on-time
+total transit time
+total transit times
+toxicity
+treadmill
+treatment
+treatment regimens and doses
+tremor
+tremulous jaw movements
+trial
+trials
+troublesome dyskinesia
+turning ability
+turning behavior
+turning behaviour
+ultrasonic vocalizations
+unified parkinson disease rating scale
+unified parkinson disease rating scale (updrs)
+unified parkinson disease rating scale (updrs) total score
+unified parkinson's disease rating scale
+unified parkinson's disease rating scale "off" state
+unified parkinson's disease rating scale (updrs)
+unified parkinson's disease rating scale (updrs) ii+iii total score
+unified parkinson's disease rating scale (updrs) motor scores
+unified parkinson's disease rating scale (updrs) part iii
+unified parkinson's disease rating scale (updrs) part iii (motor examination)
+unified parkinson's disease rating scale (updrs) score
+unified parkinson's disease rating scale (updrs) scores
+unified parkinson's disease rating scale (updrs) scores.
+unified parkinson's disease rating scale (updrs) total scores
+unified parkinson's disease rating scale sections i and iii scores
+unified parkinson's disease rating score (updrs
+unified pd rating scale (updrs)
+unified pd rating scale motor
+updrs
+updrs adl + motor scores
+updrs based pd scale
+updrs motor score
+updrs motor scores
+updrs off-state motor score
+updrs part i psychosis-relevant
+updrs score
+updrs scores
+updrs subscale
+updrs subscale ii
+updrs total score
+updrs; subscale iii
+updrs-activities of daily living (adl)
+updrs-motor score
+utterance
+validated nonhuman primate rating scale
+variability in levodopa concentrations
+vigilance
+vital signs
+vocal signal
+vocalizations
+volume of distribution
+vomiting
+waking
+walk and gait speed
+walking test
+water maze performance
+wearing off
+wearing-off
+wearing-off fluctuations
+wearing-off symptoms
+weight decrease
+weight loss
+well tolerated
+well-tolerated
+wheel running
+wire suspension
+working memory
+yawning

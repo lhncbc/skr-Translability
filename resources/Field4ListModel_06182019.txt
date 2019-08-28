@@ -1,0 +1,263 @@
+1-benzyl-1,2,3,4-tetrahydroisoquinoline (1BnTIQ)	1BnTIQ
+1-methyl-1,2,3,6-tetrahydropyridine	1BnTIQ
+1BnTIQ	1BnTIQ
+6-hydroxy-dopamine	6-OHDA
+6-hydroxy-dopamine-lesioned	6-OHDA
+6-hydroxydopamine-treated	6-OHDA
+6-hydroxydopamine	6-OHDA
+6-hydroxydopamine-induced	6-OHDA
+6-hydroxydopamine-lesioned	6-OHDA
+6-OHDA	6-OHDA
+6-OHDA-induced	6-OHDA
+6-OHDA-treated	6-OHDA
+C0085196   Oxidopamine 	6-OHDA
+C0661625   6-hydroxydopamine quinone 	6-OHDA
+Oxidopamine	6-OHDA
+Oxidopamine|C0085196|orch,phsu	6-OHDA
+6-OH-dopamine	6-OHDA
+aluminum-induced	Aluminum
+AMPA-induced	AMPA
+Amyloid Injections	Amyloid Injection
+Amyloid Injection	Amyloid Injection
+fibrillar injection	Amyloid Injection
+protofibrillar injection	Amyloid Injection
+Aβ25–35 injection	Amyloid Injection
+Abeta injection	Amyloid Injection
+amyloid fibril injection	Amyloid Injection
+amyloid fibril microinjection	Amyloid Injection
+Beta-sitosterol beta-d-glucoside 	BSSG model
+BSSG	BSSG model
+canine cognitive disorder 	Canine cognitive disorder 
+Choline O-Acetyltransferase	Choline O-Acetyltransferase
+Cholinotoxic Lesions	Cholinotoxic
+cholinotoxin 	Cholinotoxic
+colchicine-induced	Colchicine
+conduritol	Conduritol
+Electrolytic Lesions	Electrolytic
+Electrolytic Lesioning	Electrolytic
+Ethanol-induced	Ethanol
+Excitotoxic Lesions	Excitotoxic
+Excitotoxic Lesioning	Excitotoxic
+excitotoxin-induced	Excitotoxic
+excitotoxic models 	Excitotoxic
+Galantamine	Galantamine
+haloperidol 	Haloperidol 
+hemilesioned	Hemi-parkinsonian
+hemiparkinsonian	Hemi-parkinsonian
+hemiparkinsonian	Hemi-parkinsonian
+hemi-parkinsonian	Hemi-parkinsonian
+hemilesioned	Hemi-parkinsonian
+hemi-lesioned	Hemi-parkinsonian
+ibotenic acid-induced	Ibotenic acid
+ibotenic acid-lesion models	Ibotenic acid
+192 IgG-Saporin	Immunotoxic
+immunotoxin 	Immunotoxic
+immunotoxic	Immunotoxic
+AF64A	Immunotoxic
+192 IgG immunotoxin	Immunotoxic
+intracerebroventricular infusion 	Intracerebroventricular 
+intracerebroventricular injection 	Intracerebroventricular 
+intracerebroventricular microinjections	Intracerebroventricular 
+intraparenchymal injections	Intraparenchymal
+intraparenchymal microinjections	Intraparenchymal
+kainic acid-induced	Kainic acid
+ketamine model	Ketamine 
+ketamine-induced	Ketamine 
+lactacystin	Lactacystin
+fimbria/fornix transection 	Lesion-induced model 
+septo-hippocampal cholinergic denervation	Lesion-induced model 
+Lesioning 	Lesion-induced model 
+lesion-induced models 	Lesion-induced model 
+Basal Forebrain Lesioning	Lesion-induced model 
+L-DOPA induced dyskinesia 	Levodopa-induced dyskinesia
+levodopa-induced dyskinesia	Levodopa-induced dyskinesia
+LID	Levodopa-induced dyskinesia
+levodopa-induced dyskinesias	Levodopa-induced dyskinesia
+LIDs	Levodopa-induced dyskinesia
+LPS	Lipopolysaccharide model
+LPS-	Lipopolysaccharide model
+LPS-induced	Lipopolysaccharide model
+LPS-infused	Lipopolysaccharide model
+LPS-injected	Lipopolysaccharide model
+LPS-treated	Lipopolysaccharide model
+LPS-lesioned	Lipopolysaccharide model
+lipopolysaccharide (LPS)-injected	Lipopolysaccharide model
+(LPS)-injected	Lipopolysaccharide model
+endotoxin	Lipopolysaccharide model
+lipolysaccharide	Lipopolysaccharide model
+lipopolysaccharide	Lipopolysaccharide model
+lipopolysaccharide (LPS)	Lipopolysaccharide model
+lipopolysaccharide (LPS)-injected	Lipopolysaccharide model
+lipopolysaccharide induced	Lipopolysaccharide model
+C0024705   Maneb 	Maneb
+Maneb	Maneb
+1-Methyl-4-phenylpyridinium	MPP
+1-Methyl-4-phenylpyridinium|C0000098|hops,orch	MPP
+C0000098   1-Methyl-4-phenylpyridinium 	MPP
+MPP	MPP
+MPP (+)	MPP
+MPP+	MPP
+(MPTP)	MPTP
+1-benzyl-1,2,3,4-tetrahydroisoquinoline 	MPTP
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) 	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesioned	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated 	MPTP
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|C0000097|hops,orch	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropytidine	MPTP
+C0000097	MPTP
+C0000097   1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine 	MPTP
+C0044444   1-methyl-4-(2'-methylphenyl)-1,2,3,6-tetrahydropyridine 	MPTP
+C0626122   1-methyl-4-(4-chlorophenyl)-1,2,3,6-tetrahydropyridine 	MPTP
+C0639186   1,3,3-trimethyl-4-phenyl-1,2,3,6-tetrahydropyridine 	MPTP
+C0658895   1-methyl-4-(2-(fluoromethyl)phenyl)-1,2,3,6-tetrahydropyridine 	MPTP
+C0751864   MPTP-Induced Degeneration of the Striatum 	MPTP
+MPTP	MPTP
+MPTP-intoxication	MPTP
+MPTP-lesioned	MPTP
+MPTP-treated	MPTP
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated	MPTP
+MPTPp	MPTPp
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine and probenecid 	MPTPp
+MPTP-probenecid	MPTPp
+Neurotoxic	Neurotoxic
+ethylcholine aziridinium 	Neurotoxic
+Okadaic acid induced neuro-toxicity	Okadaic acid 
+Okadaic acid induced	Okadaic acid 
+OXYS	OXYS Rat 
+Paraquat	Paraquat
+Pharmacological Model 	Pharmacological Model 
+quinolic acid-induced	Quinolic acid
+quisqualic acid-induced	Quisqualic acid
+reserpine	Reserpine
+Rotenone	Rotenone
+rotenone-exposed	Rotenone
+rotenone-induced	Rotenone
+scopolamine-induced	Scopolamine
+scopolamine model	Scopolamine
+SAMP8	Senescence-accelerated mouse
+SAMP	Senescence-accelerated mouse
+senescence-accelerated mouse-prone	Senescence-accelerated mouse
+senescence-accelerated mouse	Senescence-accelerated mouse
+SAM	Senescence-accelerated mouse
+SAM-prone	Senescence-accelerated mouse
+streptozotocin-induced	Streptozotocin
+STZ-induced	Streptozotocin
+tetrabenazine	Tetrabenazine
+tetrabenazine-	Tetrabenazine
+Controlled cortical contusions	Traumatic
+Trauma	Traumatic
+Cortical injury	Traumatic
+cortical trauma	Traumatic
+controlled cortical impact	Traumatic
+Tremulous jaw movements 	Tremulous jaw movement model
+TBZ-induced	Tremulous jaw movement model
+TJMs	Tremulous jaw movement model
+TMT	Trimethyltin
+Trimethyltin	Trimethyltin
+tryptophan-induced	Tryptophan
+inhibited expression	Genetically altered model
+ -/-	Genetically altered model
+ +/-	Genetically altered model
+ +/+	Genetically altered model
+(-/-) 	Genetically altered model
+(-/-) mice	Genetically altered model
+(+/-)	Genetically altered model
+(+/+)	Genetically altered model
+AAV-induced	Genetically altered model
+AAV-mediated	Genetically altered model
+ablate	Genetically altered model
+ablated	Genetically altered model
+ablation	Genetically altered model
+adeno-associated	Genetically altered model
+adenoviral-induced 	Genetically altered model
+adenoviral-mediated	Genetically altered model
+CAS9	Genetically altered model
+Cas9	Genetically altered model
+Cas-9	Genetically altered model
+conditional 	Genetically altered model
+Cre-recombinase	Genetically altered model
+Crisp-Cas9	Genetically altered model
+Crisp-Cas-9	Genetically altered model
+Crispr	Genetically altered model
+CRISPR/Cas9 	Genetically altered model
+CRISPR/Cas-9 	Genetically altered model
+deficiency 	Genetically altered model
+deficient	Genetically altered model
+deleted	Genetically altered model
+deletion	Genetically altered model
+dominant negative 	Genetically altered model
+Downregulate	Genetically altered model
+Downregulated	Genetically altered model
+F1 hybrid	Genetically altered model
+F1 hybrids	Genetically altered model
+floxed	Genetically altered model
+floxed allele	Genetically altered model
+Gain-of-function	Genetically altered model
+Gene Knockdown 	Genetically altered model
+gene targeting	Genetically altered model
+Gene Transfer	Genetically altered model
+gene trap	Genetically altered model
+genetic model	Genetically altered model
+genome-editing	Genetically altered model
+germline	Genetically altered model
+hemizygous	Genetically altered model
+heterozygous	Genetically altered model
+homozygous	Genetically altered model
+indel	Genetically altered model
+indels	Genetically altered model
+inhibit expression	Genetically altered model
+knockdown	Genetically altered model
+Knockdown 	Genetically altered model
+knocked out	Genetically altered model
+knockin	Genetically altered model
+knock-in	Genetically altered model
+Knockout	Genetically altered model
+knockout	Genetically altered model
+knockouts	Genetically altered model
+KO mice	Genetically altered model
+lacking	Genetically altered model
+lentiviral	Genetically altered model
+lentiviral expression	Genetically altered model
+lentiviral-induced	Genetically altered model
+loss of function	Genetically altered model
+loss-of-function	Genetically altered model
+morpholino	Genetically altered model
+morpholinos	Genetically altered model
+mutant	Genetically altered model
+mutants	Genetically altered model
+null	Genetically altered model
+overexperessor	Genetically altered model
+overexpress	Genetically altered model
+overexpressed	Genetically altered model
+overexpressing	Genetically altered model
+overexpression	Genetically altered model
+point mutation	Genetically altered model
+point mutations	Genetically altered model
+rAAV 	Genetically altered model
+rAAV-mediated	Genetically altered model
+reporter construct	Genetically altered model
+reporter constructs	Genetically altered model
+RNA-targeted	Genetically altered model
+ROSA 26	Genetically altered model
+silenced	Genetically altered model
+silencing	Genetically altered model
+STOP cassette	Genetically altered model
+talen	Genetically altered model
+TALEN	Genetically altered model
+targeted	Genetically altered model
+targeted allele	Genetically altered model
+targeting	Genetically altered model
+tranduction	Genetically altered model
+transduced	Genetically altered model
+transgene	Genetically altered model
+transgenic	Genetically altered model
+translocation 	Genetically altered model
+underexpressed	Genetically altered model
+underexpressing	Genetically altered model
+underexpression	Genetically altered model
+vector	Genetically altered model
+vectors	Genetically altered model
+wild-type	Genetically altered model
+WT animal	Genetically altered model
+WT mice	Genetically altered model

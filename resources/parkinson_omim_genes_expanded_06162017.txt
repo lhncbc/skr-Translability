@@ -1,0 +1,818 @@
+PRKN	PRKN
+PRKN	parkin
+PRKN	parkinson protein 2, E3 ubiquitin protein ligase (parkin)
+PRKN	PARK2
+PRKN	E3 ubiquitin-protein ligase parkin
+PRKN	parkinson juvenile disease protein 2
+PRKN	parkinson protein 2 E3 ubiquitin protein ligase
+PRKN	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+PRKN	parkin variant SV11bINS
+PRKN	PDJ
+PRKN	LPRS2
+PRKN	parkin RBR E3 ubiquitin protein ligase
+PRKN	AR-JP
+PRKN	pdr-1
+ADH1C	alcohol dehydrogenase 1C
+ADH1C	adh3
+ADH1C	ADH1C
+ADH1C	alcohol dehydrogenase 3 (class I), gamma polypeptide
+ADH1C	alcohol dehydrogenase 1
+ADH1C	ADH1B
+ADH1C	alcohol dehydrogenase 3
+ADH1C	ADH3
+ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide L homeolog
+ADH1C	ADH1
+ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide
+ADH1C	alcohol dehydrogenase 1C (class 1), gamma polypeptide
+ADH1C	Adh1c
+ADH1C	ADH10A
+ADH1C	Alcohol dehydrogenase 10A
+ADH1C	ADH-1
+ADH1C	aldehyde reductase
+ADH1C	alcohol dehydrogenase 1B (class I), beta polypeptide
+ADH1C	adh1c.L
+ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide S homeolog
+ADH1C	adh1c.S
+ADH1C	alcohol dehydrogenase LOC509744
+ADH1C	adh1c
+ADH1C	ADH, gamma subunit
+ADH1C	alcohol dehydrogenase I
+ADH1C	beta polypeptide
+LRRK2	leucine-rich repeat kinase 2
+LRRK2	leucine-rich repeat serine/threonine-protein kinase 2
+LRRK2	RIPK7
+LRRK2	ROCO2
+LRRK2	Gm927
+LRRK2	LRRK2
+LRRK2	D630001M17Rik
+LRRK2	PARK8
+LRRK2	DARDARIN
+LRRK2	AW561911
+LRRK2	lrrk2
+LRRK2	augmented in rheumatoid arthritis 17
+LRRK2	AURA17
+LRRK2	Lrrk2
+LRRK2	4921513O20Rik
+LRRK2	leucine rich repeat kinase 2
+LRRK2	cI-46
+LRRK2	9330188B09Rik
+GBA	beta-glucocerebrosidase
+GBA	D-glucosyl-N-acylsphingosine glucohydrolase
+GBA	glucosylceramidase-like protein
+GBA	GBA
+GBA	GCB
+GBA	Gba
+GBA	acid beta-glucosidase
+GBA	GBA1
+GBA	glucosylceramidase beta
+GBA	betaGC
+GBA	glucocerebrosidase
+GBA	alglucerase
+GBA	GLUC
+GBA	beta-GC
+GBA	gba-1
+GBA	lysosomal glucocerebrosidase
+GBA	GC
+GBA	acid beta glucosidase
+GBA	glucosylceramidase
+GBA	glucosidase, beta, acid
+GBA	imiglucerase
+GBA	GCase
+HTRA2	motor neuron degeneration 2
+HTRA2	HTRA2-related serine protease
+HTRA2	Prss25
+HTRA2	serine protease 25
+HTRA2	CG8464-PA
+HTRA2	CG8464-PB
+HTRA2	domi
+HTRA2	HTRA2
+HTRA2	CG8464
+HTRA2	AI481710
+HTRA2	PRSS25
+HTRA2	HtrA-like serine protease
+HTRA2	serine protease HTRA2
+HTRA2	serine proteinase OMI
+HTRA2	CG8464 gene product from transcript CG8464-RB
+HTRA2	protease, serine, 25
+HTRA2	serine protease OMI
+HTRA2	htrA2
+HTRA2	high temperature requirement protein A2
+HTRA2	Htra2
+HTRA2	omi stress-regulated endoprotease
+HTRA2	serine protease HTRA2, mitochondrial
+HTRA2	DmHtrA2
+HTRA2	mnd2
+HTRA2	MGCA8
+HTRA2	Omi stress-regulated endoprotease
+HTRA2	HtrA2/Omi
+HTRA2	dOmi
+HTRA2	OMI
+HTRA2	Omi
+HTRA2	si:dkey-112g5.16
+HTRA2	htrA2/omi
+HTRA2	PARK13
+HTRA2	Dmel\CG8464
+HTRA2	HtrA2-PB
+HTRA2	HtrA serine peptidase 2
+HTRA2	HtrA2
+HTRA2	HtrA2-PA
+PLA2G6	INAD1
+PLA2G6	intracellular membrane-associated calcium-independent phospholipase A2 beta
+PLA2G6	NBIA2B
+PLA2G6	cai-pla2
+PLA2G6	iPLA2beta
+PLA2G6	NBIA2A
+PLA2G6	phospholipase A2, group VI
+PLA2G6	IPLA2-VIA
+PLA2G6	group VI phospholipase A2
+PLA2G6	PLA2G6
+PLA2G6	NBIA2
+PLA2G6	phospholipase A2, group VI (cytosolic, calcium-independent)
+PLA2G6	inad1
+PLA2G6	phospholipase A2, group 6 (cytosolic, calcium-independent)
+PLA2G6	CaI-PLA2
+PLA2G6	pnpla9
+PLA2G6	85 kDa calcium-independent phospholipase A2
+PLA2G6	BB112799
+PLA2G6	zgc:77476
+PLA2G6	pla2
+PLA2G6	iPLA2
+PLA2G6	iPla2
+PLA2G6	gvi
+PLA2G6	Pla2g6
+PLA2G6	pla2g6
+PLA2G6	patatin-like phospholipase domain-containing protein 9
+PLA2G6	patatin-like phospholipase domain containing 9
+PLA2G6	phospholipase A2 group VI
+PLA2G6	PNPLA9
+PLA2G6	PLA2
+PLA2G6	wu:fc06g09
+PLA2G6	iPLA(2)beta
+PLA2G6	ipla2
+PLA2G6	iPLA2-beta
+PLA2G6	caI-PLA2
+PLA2G6	85/88 kDa calcium-independent phospholipase A2
+PLA2G6	PARK14
+PLA2G6	GVI PLA2
+PLA2G6	GVI
+PLA2G6	neurodegeneration with brain iron accumulation 2
+GIGYF2	Gigyf2
+GIGYF2	glutamine rich protein
+GIGYF2	AI852361
+GIGYF2	TNRC15
+GIGYF2	gigyf2.S
+GIGYF2	GRB10 interacting GYF protein 2
+GIGYF2	PERQ amino acid-rich with GYF domain-containing protein 2
+GIGYF2	trinucleotide repeat-containing gene 15 protein
+GIGYF2	GRB10 interacting GYF protein 2 S homeolog
+GIGYF2	GIGYF2
+GIGYF2	A830080H02Rik
+GIGYF2	BC006835
+GIGYF2	PARK11
+GIGYF2	Tnrc15
+GIGYF2	2610016F01Rik
+GIGYF2	Parkinson disease (autosomal recessive, early onset) 11
+GIGYF2	AW259676
+GIGYF2	PERQ3
+GIGYF2	mKIAA0642
+GIGYF2	PERQ2
+GIGYF2	trinucleotide repeat containing 15
+GIGYF2	PERQ amino acid rich, with GYF domain 3
+GIGYF2	gigyf2
+GIGYF2	GYF2
+PARK3	Parkinson disease 3 (autosomal dominant, Lewy body)
+PARK3	PARK3
+UCHL1	uchl1
+UCHL1	Ubiquitin thioesterase L1
+UCHL1	HEL-S-53
+UCHL1	UCH-L1
+UCHL1	ubiquitin C-terminal hydrolase L1
+UCHL1	NDGOA
+UCHL1	PGP 9.5
+UCHL1	Ubiquitin carboxyl-terminal hydrolase isozyme L1
+UCHL1	wu:fc55h08
+UCHL1	ubiquitin C-terminal hydrolase 1
+UCHL1	gad
+UCHL1	epididymis secretory protein Li 53
+UCHL1	PARK5
+UCHL1	ubiquitin thiolesterase
+UCHL1	UCHL1
+UCHL1	R75593
+UCHL1	epididymis luminal protein 117
+UCHL1	C88048
+UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+UCHL1	ubiquitin thioesterase L1
+UCHL1	SPG79
+UCHL1	PGP95
+UCHL1	AW822034
+UCHL1	Uchl1
+UCHL1	neuron cytoplasmic protein 9.5
+UCHL1	antisense UCHL1
+UCHL1	protein gene product 9.5
+UCHL1	ubiquitin thiolesterase L1
+UCHL1	ubiquitin carboxy-terminal hydrolase L1
+UCHL1	UCHL-1
+UCHL1	UCH1LAS
+UCHL1	PGP9.5
+UCHL1	Uch-L1
+UCHL1	cb358
+UCHL1	ubiquitin carboxyl-terminal hydrolase L1
+UCHL1	HEL-117
+UCHL1	ubiquitin carboxyl-terminal hydrolase isozyme L1
+UCHL1	gracile axonal dystrophy
+CHCHD2	Etohi6
+CHCHD2	coiled-coil-helix-coiled-coil-helix domain containing 9
+CHCHD2	Chchd2
+CHCHD2	AL033347
+CHCHD2	coiled-coil-helix-coiled-coil-helix domain-containing protein 2, mitochondrial
+CHCHD2	chchd2.L
+CHCHD2	coiled-coil-helix-coiled-coil-helix domain containing 2 pseudogene 9
+CHCHD2	chchd2
+CHCHD2	MNRR1
+CHCHD2	CHCHD2
+CHCHD2	PARK22
+CHCHD2	CHCHD9
+CHCHD2	C7orf17
+CHCHD2	mitochondria nuclear retrograde regulator 1
+CHCHD2	coiled-coil-helix-coiled-coil-helix domain containing 2
+CHCHD2	HCV NS2 trans-regulated protein
+CHCHD2	coiled-coil-helix-coiled-coil-helix domain containing 2 L homeolog
+CHCHD2	zgc:73266
+CHCHD2	aging-associated gene 10 protein
+CHCHD2	chchd2l
+CHCHD2	16.7kD protein
+CHCHD2	ethanol induced 6
+CHCHD2	NS2TP
+CHCHD2	CHCHD2P9
+CHCHD2	coiled-coil-helix-coiled-coil-helix domain-containing protein 2
+ATXN2	spinocerebellar ataxia type 2 protein
+ATXN2	ataxin-2
+ATXN2	Atxn2
+ATXN2	atxn2
+ATXN2	TNRC13
+ATXN2	spinocerebellar ataxia 2 (olivopontocerebellar ataxia 2, autosomal dominant, ataxin 2)
+ATXN2	Sca2
+ATXN2	SCA2
+ATXN2	9630045M23Rik
+ATXN2	spinocerebellar ataxia 2 homolog
+ATXN2	ataxin 2 like
+ATXN2	ATXN2L
+ATXN2	ATXN2
+ATXN2	ATX2
+ATXN2	ataxin 2
+ATXN2	trinucleotide repeat-containing gene 13 protein
+ATXN2	spinocerebellar ataxia type 2 protein homolog
+ATXN2	AW544490
+ATXN2	si:dkey-165i4.1
+PARK21	PARK21
+PARK21	Parkinson disease 21
+VPS35	Vacuolar protein sorting 35
+VPS35	Vps35-PA
+VPS35	bZ34G2.3
+VPS35	Dmel\CG5625
+VPS35	vacuolar protein sorting 35
+VPS35	Vps35-PB
+VPS35	VPS35 retromer complex component
+VPS35	hVPS35
+VPS35	Vps35
+VPS35	vacuolar protein sorting 35 homolog (S. cerevisiae)
+VPS35	AI647796
+VPS35	vacuolar protein sorting-associated protein 35
+VPS35	DVps35
+VPS35	zgc:136268
+VPS35	dVPS35
+VPS35	CG5625-PB
+VPS35	Maternal embryonic message 3
+VPS35	CG5625-PA
+VPS35	maternal embryonic message 3
+VPS35	wu:fb95c08
+VPS35	VPS35
+VPS35	CG5625 gene product from transcript CG5625-RB
+VPS35	CG5625
+VPS35	vesicle protein sorting 35
+VPS35	VPS35C
+VPS35	vps35
+VPS35	DmVps35
+VPS35	vacuolar protein sorting 35 homolog
+VPS35	Dvps35
+VPS35	PARK17
+VPS35	dvps35
+VPS35	VPS35, retromer complex component
+VPS35	wu:fa66e03
+VPS35	si:rp71-34g2.3
+VPS35	Mem3
+VPS35	MEM3
+VPS35	maternal-embryonic 3
+FBXO7	si:ch211-286m4.2
+FBXO7	Fbxo7
+FBXO7	A230052G17Rik
+FBXO7	F-box only protein 7
+FBXO7	fbxo7
+FBXO7	PARK15
+FBXO7	zgc:114096
+FBXO7	AI117679
+FBXO7	fbx7
+FBXO7	AW260462
+FBXO7	F-box protein 7
+FBXO7	2410015K21Rik
+FBXO7	FBX07
+FBXO7	C85118
+FBXO7	FBX7
+FBXO7	PKPS
+FBXO7	FBXO7
+FBXO7	FBX
+SNCA	non-A beta component of AD amyloid
+SNCA	PARK1
+SNCA	synuclein, alpha (non A4 component of amyloid precursor)
+SNCA	NACP
+SNCA	synuclein, alpha
+SNCA	PARK4
+SNCA	alpha-synuclein
+SNCA	snca
+SNCA	synelfin
+SNCA	synuclein alpha
+SNCA	synuclein alpha-140
+SNCA	alphaSYN
+SNCA	non-A4 component of amyloid
+SNCA	PD1
+SNCA	non A-beta component of AD amyloid
+SNCA	Snca
+SNCA	SNCA
+TBP	TFIID-p42
+TBP	suppressor of Ras85D 3-5
+TBP	TATA-box binding protein
+TBP	RuvB like AAA ATPase 1
+TBP	RuvB like AAA ATPase 2
+TBP	l(3)72Dj
+TBP	TBP-associated factor
+TBP	TBP associated factor 110
+TBP	nuclear matrix protein 238
+TBP	KAT4
+TBP	taf40/e(y)1
+TBP	TBP-associated factor 250kD
+TBP	E(y)1
+TBP	RBP
+TBP	dmTAF[[II]]230
+TBP	TIP60-associated protein 54-beta
+TBP	CG6474
+TBP	CG6474-PA
+TBP	TIH2
+TBP	TIH1
+TBP	TafII40
+TBP	RuvB-like AAA ATPase
+TBP	TFIID TAF250
+TBP	cel
+TBP	N-TAF1
+TBP	48 kDa TBP-interacting protein
+TBP	TFIID 230 kda subunit
+TBP	Pontin52
+TBP	TATA binding protein interacting protein 49 kDa
+TBP	TFIID 42
+TBP	ECP51
+TBP	dme-TAFII40
+TBP	TFIID 110
+TBP	TATA box-binding protein
+TBP	SY3-2 TAF110
+TBP	TBP-1
+TBP	proteasome subunit P50
+TBP	TATA-box-binding protein
+TBP	ECP54
+TBP	TIP60-associated protein 54-alpha
+TBP	TIP49
+TBP	dTAF[[II]]110
+TBP	dTAF[[II]]230
+TBP	CG5444-PE
+TBP	CG5444-PD
+TBP	CG5444-PC
+TBP	TBP-associated factor 250
+TBP	CG5444-PB
+TBP	CG5444-PA
+TBP	dTbp
+TBP	dTBP
+TBP	TAF200
+TBP	TAFII-250
+TBP	TAF250/230
+TBP	TAF(II)250
+TBP	e(y)1-PA
+TBP	TAFII250
+TBP	cell cycle gene 1 protein
+TBP	taf110
+TBP	dTAF42
+TBP	TAF[II]40
+TBP	CGI-46
+TBP	proteasome 26S subunit, ATPase 3
+TBP	lethal(3)72Dj
+TBP	transcription factor TFIID p250 polypeptide
+TBP	TATA binding protein
+TBP	BA2R
+TBP	Taf1-PB
+TBP	Taf1-PA
+TBP	Taf1-PD
+TBP	CG9874 gene product from transcript CG9874-RA
+TBP	Taf1-PC
+TBP	Taf1-PF
+TBP	TBP-associated factor 110
+TBP	Taf1-PE
+TBP	Taf[[II]]40
+TBP	repressing pontin 52
+TBP	ruvB-like 1
+TBP	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa
+TBP	ruvB-like 2
+TBP	CG17603
+TBP	TAF[[II]]
+TBP	XDP
+TBP	TAFII40
+TBP	TAFII110
+TBP	TBP1
+TBP	Taf250
+TBP	PONTIN
+TBP	dTFIID
+TBP	SR3-5
+TBP	CG6474 gene product from transcript CG6474-RA
+TBP	SR3-3
+TBP	TAFII40(42)
+TBP	p42
+TBP	dtbp
+TBP	PSMC3
+TBP	CG5444-PI
+TBP	CG5444-PH
+TBP	CG5444-PG
+TBP	CG9874
+TBP	CG5444-PF
+TBP	TAP54-alpha
+TBP	TAF110
+TBP	TIP48
+TBP	TAF230
+TBP	proteasome (prosome, macropain) 26S subunit, ATPase, 3
+TBP	d110
+TBP	REPTIN
+TBP	GTF2D
+TBP	d230
+TBP	49 kDa TBP-interacting protein
+TBP	TAF42
+TBP	TAF40
+TBP	TBP-associated factor 110kD
+TBP	human immunodeficiency virus tat transactivator binding protein-1
+TBP	Tat-binding protein 1
+TBP	Tbp-PA
+TBP	TBP-associated factor 40kD
+TBP	dTAFII250
+TBP	RUVBL2
+TBP	RUVBL1
+TBP	Dmel\CG5444
+TBP	TATA sequence-binding protein
+TBP	TATA-box factor
+TBP	EfW1
+TBP	26S proteasome AAA-ATPase subunit RPT5
+TBP	cell cycle, G1 phase defect
+TBP	TAF[[II]]42
+TBP	TAF[[II]]40
+TBP	dmTAF9
+TBP	26S protease regulatory subunit 6A
+TBP	dmTaf9
+TBP	Taf110
+TBP	dmTAF1
+TBP	CG17603-PA
+TBP	Taf230
+TBP	48 kDa TATA box-binding protein-interacting protein
+TBP	dmTAF4
+TBP	CG17603-PF
+TBP	CG17603-PC
+TBP	CCG1
+TBP	Gtf2d
+TBP	CG17603-PB
+TBP	TAF2A
+TBP	CG5444 gene product from transcript CG5444-RA
+TBP	CG17603-PE
+TBP	cell lethal
+TBP	CG17603-PD
+TBP	erythrocyte cytosolic protein, 51-KD
+TBP	TBP38
+TBP	TAF250
+TBP	e(y)[1]
+TBP	TBP-associated factor 1
+TBP	ECP-51
+TBP	Taf200
+TBP	HDL4
+TBP	INO80H
+TBP	dTAF[[II]]250
+TBP	ECP-54
+TBP	INO80J
+TBP	RVB2
+TBP	CCGS
+TBP	testicular secretory protein Li 42
+TBP	RVB1
+TBP	Taf1p
+TBP	49 kDa TATA box-binding protein-interacting protein
+TBP	transcription initiation factor TFIID subunit 1
+TBP	dTAF[[II]]42
+TBP	TATA-box binding protein associated factor 1
+TBP	TBP-associated factor 4
+TBP	dTAF[[II]]40
+TBP	TBP-associated factor 250 kDa
+TBP	dTAF250
+TBP	SCA17
+TBP	GTF2D1
+TBP	CG9874-PA
+TBP	NSCL2
+TBP	CG17603 gene product from transcript CG17603-RE
+TBP	Taf40
+TBP	TFIIDtau
+TBP	TAF
+TBP	NMP238
+TBP	Taf42
+TBP	TATA-box binding protein N-terminal domain
+TBP	TIP49A
+TBP	TIP49B
+TBP	e(y)4
+TBP	Taf[[II]]110
+TBP	TAF[[II]]250
+TBP	reptin52 protein
+TBP	TAF[II]110
+TBP	p110
+TBP	DYT3
+TBP	TAF40/42/e(y)1
+TBP	dTAF1
+TBP	l(3)84Ab
+TBP	DYT3/TAF1
+TBP	CG5444
+TBP	dTAF4
+TBP	BG:DS00004.13
+TBP	TfIID
+TBP	INO80 complex subunit H
+TBP	TAP54-beta
+TBP	INO80 complex subunit J
+TBP	dTAF230
+TBP	TBP
+TBP	Tbp
+TBP	TAF40/42
+TBP	TATA box binding protein
+TBP	Dmel\CG17603
+TBP	RuvB (E coli homolog)-like 1
+TBP	p230
+TBP	RuvB (E coli homolog)-like 2
+TBP	TATA-associated factor 250
+TBP	TAF[[II]]250/230
+TBP	TFIID
+TBP	e(y)1
+TBP	TAF[[II]]40/42
+TBP	Taf[[II]]250
+TBP	TAF[[II]]110
+TBP	Taf9
+TBP	TAF9
+TBP	TAF[[II]]230
+TBP	TATA-binding factor
+TBP	transcription initiation factor TFIID TBP subunit
+TBP	54 kDa erythrocyte cytosolic protein
+TBP	MRXS33
+TBP	TAF[II]250
+TBP	dTAFII110
+TBP	P250
+TBP	dTAFII42
+TBP	Dmel\CG6474
+TBP	enhancer of yellow 4
+TBP	Taf4-PE
+TBP	d40
+TBP	Taf4-PD
+TBP	Taf4-PC
+TBP	Taf4-PB
+TBP	Taf4-PA
+TBP	enhancer of yellow 1
+TBP	TATA-associated factor 110
+TBP	NMP 238
+TBP	dTAF9
+TBP	Taf4-PI
+TBP	Taf4-PH
+TBP	Taf4-PG
+TBP	Taf4-PF
+TBP	42kDa polypeptide
+TBP	TATA-binding protein
+TBP	Dmel\CG9874
+TBP	dTAF[[40]]
+TBP	51 kDa erythrocyte cytosolic protein
+TBP	complementation of cell cycle block, G1-to-S
+TBP	Taf4
+TBP	TAF4
+TBP	TAF1
+TBP	pontin 52
+TBP	TFIID core protein
+TBP	Taf1
+VPS13C	Vps13c 5' variant VI
+VPS13C	VPS13C
+VPS13C	vps13c 5' variant III
+VPS13C	Vps13c
+VPS13C	W51662
+VPS13C	AV026040
+VPS13C	AI552542
+VPS13C	vps13c 5' variant II
+VPS13C	chorein
+VPS13C	vps13c
+VPS13C	C230055H22Rik
+VPS13C	PARK23
+VPS13C	vacuolar protein sorting 13 homolog C
+VPS13C	vacuolar protein sorting-associated protein 13C
+VPS13C	vacuolar protein sorting 13 homolog C (S. cerevisiae)
+VPS13C	vacuolar protein sorting 13C
+DJ1	protein DJ-1
+DJ1	protein deglycase DJ-1
+DJ1	Parkinsonism associated deglycase
+DJ1	Parkinson disease (autosomal recessive, early onset) 7
+DJ1	DJ1
+DJ1	DJ-1
+DJ1	Dj1
+DJ1	PARK7
+DJ1	oncogene DJ1
+DJ1	HEL-S-67p
+DJ1	epididymis secretory sperm binding protein Li 67p
+DJ1	parkinson protein 7
+DJ1	similar to RNA-binding protein regulatory subunit; oncogene DJ1
+DJ1	LOC457908
+PARK16	PARK16
+PARK16	Parkinson disease 16 (susceptibility)
+PINK1	PTEN-induced putative kinase protein 1
+PINK1	PARK6
+PINK1	mFLJ00387
+PINK1	PTEN-induced putative kinase 1
+PINK1	PINK1-AS
+PINK1	PTEN-induced kinase 1
+PINK1	serine/threonine-protein kinase PINK1, mitochondrial
+PINK1	PINK1AS
+PINK1	pink1
+PINK1	CG4523 gene product from transcript CG4523-RH
+PINK1	Dmel\CG4523
+PINK1	CG4523-PI
+PINK1	PINK1 antisense RNA
+PINK1	zgc:101729
+PINK1	NAPINK1
+PINK1	CG4523
+PINK1	Pink
+PINK1	phosphatase and tensin homolog-induced putative kinase 1
+PINK1	dPINK1
+PINK1	Pink1
+PINK1	dPink1
+PINK1	CG4523-PB
+PINK1	CG4523-PA
+PINK1	CG4523-PD
+PINK1	PINK
+PINK1	CG4523-PC
+PINK1	CG4523-PF
+PINK1	Pink1-PF
+PINK1	BRPK
+PINK1	CG4523-PE
+PINK1	Pink1-PG
+PINK1	CG4523-PH
+PINK1	Pink1-PH
+PINK1	CG4523-PG
+PINK1	Pink1-PI
+PINK1	Pink1-PB
+PINK1	dPINk1
+PINK1	Pink1-PC
+PINK1	Pink1-PD
+PINK1	Pink1-PE
+PINK1	Pink1-PA
+PINK1	AU042772
+PINK1	wu:fc39e12
+PINK1	PTEN induced putative kinase 1
+PINK1	protein kinase BRPK
+PINK1	PINK1-AS1
+PINK1	:Pink1
+PINK1	PINK1
+PINK1	1190006F07Rik
+PINK1	AW557854
+PINK1	BEST:GH23468
+GLUD2	glud2
+GLUD2	GLUD1
+GLUD2	GLUD2
+GLUD2	GDH 1
+GLUD2	glutamate dehydrogenase 1, mitochondrial
+GLUD2	GDH 2
+GLUD2	glutamate dehydrogenase 2
+GLUD2	GDH2
+GLUD2	glutamate dehydrogenase pseudogene 1
+GLUD2	testicular secretory protein Li 14
+GLUD2	glutamate dehydrogenase 2, mitochondrial
+GLUD2	GLUDP1
+SYNJ1	slacker
+SYNJ1	synaptojanin-1, polyphosphoinositide phosphatase
+SYNJ1	synaptojanin-1
+SYNJ1	inositol 5'-phosphatase (synaptojanin 1)
+SYNJ1	synj1
+SYNJ1	AA675315
+SYNJ1	mKIAA0910
+SYNJ1	Synj1
+SYNJ1	synaptic inositol 1,4,5-trisphosphate 5-phosphatase 1
+SYNJ1	wu:fb02f11
+SYNJ1	no optokinetic response c
+SYNJ1	fi15a11
+SYNJ1	phosphoinositide 5-phosphatase
+SYNJ1	SYNJ1
+SYNJ1	INPP5G
+SYNJ1	A930006D20Rik
+SYNJ1	PARK20
+SYNJ1	slak
+SYNJ1	synaptojanin 1
+SYNJ1	fb02f11
+SYNJ1	wu:fi15a11
+SYNJ1	inositol polyphosphate-5-phosphatase G
+SYNJ1	nrc
+DNAJC6	DnaJ heat shock protein family (Hsp40) member C6
+DNAJC6	DnaJ (Hsp40) homolog, subfamily C, member 6
+DNAJC6	auxilin
+DNAJC6	Dnajc6
+DNAJC6	dnajc6
+DNAJC6	DnaJ (Hsp40) homolog, subfamily B, member 6
+DNAJC6	PARK19
+DNAJC6	DNAJC6
+DNAJC6	2810027M23Rik
+DNAJC6	dnaJ homolog subfamily C member 6
+DNAJC6	DJC6
+DNAJC6	putative tyrosine-protein phosphatase auxilin
+DNAJC6	mKIAA0473
+PARK12	PARK12
+PARK12	Parkinson disease 12 (susceptibility)
+PARK10	AAOPD
+PARK10	Parkinson disease 10 (susceptibility)
+PARK10	PARK10
+ATP13A2	ATPase 13A2
+ATP13A2	RGD1307977
+ATP13A2	HSA9947
+ATP13A2	zgc:136762
+ATP13A2	PARK9
+ATP13A2	N-ATPase
+ATP13A2	im:7147302
+ATP13A2	CLN12
+ATP13A2	Atp13a2
+ATP13A2	1110012E06Rik
+ATP13A2	ATP13A2
+ATP13A2	KRPPD
+ATP13A2	SPG78
+ATP13A2	probable cation-transporting ATPase 13A2
+ATP13A2	ATPase type 13A2
+ATP13A2	AA589443
+ATP13A2	atp13a2
+MAPT	G protein beta1/gamma2 subunit-interacting factor 1
+MAPT	protein phosphatase 1, regulatory subunit 103
+MAPT	STH
+MAPT	TAU
+MAPT	paired helical filament-tau
+MAPT	Tau
+MAPT	tau-like protein-2
+MAPT	Mtapt
+MAPT	microtubule-associated protein tau 464
+MAPT	microtubule-associated protein tau (MAPT) intronic transcript
+MAPT	Paired helical filament-tau
+MAPT	saitohin
+MAPT	microtubule-associated protein tau 611
+MAPT	Tau microtubule-associated protein
+MAPT	PPND
+MAPT	microtubule associated protein tau
+MAPT	microtubule-associated protein tau
+MAPT	FTDP-17
+MAPT	neurofibrillary tangle protein
+MAPT	Neurofibrillary tangle protein
+MAPT	Mapt
+MAPT	MAPTIT
+MAPT	AW045860
+MAPT	MAPT-AS1
+MAPT	microtubule-associated protein tau, isoform 4
+MAPT	PHF-tau
+MAPT	tau
+MAPT	RNPTAU
+MAPT	mapt
+MAPT	DDPAC
+MAPT	pTau
+MAPT	MAPTL
+MAPT	PPP1R103
+MAPT	microtubule-associated protein tau 402
+MAPT	microtubule-associated protein tau 688
+MAPT	MSTD
+MAPT	microtubule associated protein tau S homeolog
+MAPT	MAPT antisense RNA 1
+MAPT	tau-like protein
+MAPT	xtp
+MAPT	mapt.S
+MAPT	MAPT
+MAPT	MTBT1
+MAPT	AI413597
+MAPT	MTBT2
+EIF4G1	EIF4-gamma
+EIF4G1	P220
+EIF4G1	eIF-4G1
+EIF4G1	Eif4g1
+EIF4G1	eucaryotic translation initiation factor 4G
+EIF4G1	eIF4GI
+EIF4G1	eIF-4G 1
+EIF4G1	eif4g1
+EIF4G1	PARK18
+EIF4G1	p220
+EIF4G1	eukaryotic translation initiation factor 4 gamma, 1
+EIF4G1	eIF-4-gamma 1
+EIF4G1	eif4g
+EIF4G1	E030015G23Rik
+EIF4G1	EIF4GI
+EIF4G1	eukaryotic translation initiation factor 4 gamma 1
+EIF4G1	EIF4F
+EIF4G1	eukaryotic translation initiation factor 4, gamma 1
+EIF4G1	EIF4G
+EIF4G1	EIF-4G1
+EIF4G1	EIF4G1

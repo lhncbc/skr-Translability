@@ -1,0 +1,252 @@
+##abnormal involuntary movements (aims)
+##abnormal involuntary movements
+#activity
+adjusted stepping
+###adverse effects
+###adverse events
+aims scores
+amphetamine-induced rotation behaviour
+amphetamine-induced turning behavior
+antidyskinetic effect
+antidyskinetic
+anti-parkinsonian action
+antiparkinsonian actions of l-dopa.
+antiparkinsonian effect
+antiparkinsonian effects
+antiparkinsonian
+anti-parkinsonian
+apomorphine-caused rotation
+apomorphine-induced circling behaviour
+apomorphine-induced rotational behavior (circling)
+apomorphine-induced rotational behavior
+apomorphine-induced turning
+###balance
+behavior
+behavioral activity
+behavioral alterations
+behavioral changes
+behavioral deficits
+behavioral functioning
+behavioral impairment
+behavioral improvement
+behavioral measures
+behavioral performance
+behavioral recovery
+behavioral scores
+behavioral symptoms
+behavioral task
+behavioral test
+behavioral tests
+#behavioral
+behavioural data
+behavioural test scores
+##beneficial effect
+##biochemical analyses
+biochemical and electrophysiological data
+blinded video assessment
+blink abnormalities
+blink hyperexcitability
+blink plasticity
+blink rate
+blood pressure (bp)
+body weight reduction
+##body weight
+bradykinesia
+chorea
+circling
+clinical application
+clinical benefit
+clinical improvement
+clinical rating scale
+clinical rating scales
+cognitive and motor domains
+cognitive behavior deficits
+cognitive function
+cognitive impairment
+contralateral forelimb use
+contralateral rotations
+csf samples
+cylinder task
+cylinder test
+daily activity counts
+daytime sleepiness
+#death
+#deficits
+###depression
+depressive-like behaviors
+died
+disability
+disabling dyskinesia
+dose of levodopa
+duration of on-time
+dysfunction scores
+dyskinesia scores
+dyskinesia
+dyskinesia.
+dyskinesia-like effects
+dyskinesias
+dyskinetic
+dystonia
+dystonic lid
+##efficacious
+elevated body swing
+exploratory activity
+f behavioral tests
+falls
+###feasibility
+feeding behavior
+forced swim test
+forced swimming tests
+forelimb use
+#function
+functional capacity
+functional improvement
+#functional
+further investigation
+heart rate
+##hyperactivity
+hypotension
+immobility time
+improvements
+in amphetamine-induced rotations
+ipsilateral rotations
+l-3,4-dihydroxyphenylalanine (l-3,4-dihydroxyphenylalanine-dopa)-induced dyskinesia (lid)
+l-3,4-dihydroxyphenylalanine (l-dopa)-induced dyskinesia
+l-3,4-dihydroxyphenylalanine (l-dopa)-induced dyskinesias (lid)
+l-dopa anti-parkinsonian action
+l-dopa anti-parkinsonian efficacy
+l-dopa-induced dyskinesia
+l-dopa-induced dyskinesias (lid)
+l-dopa-induced dyskinesias (lids)
+l-dopa-induced rotations
+l-dopa-induced side-effects
+##learning
+levodopa efficacy
+levodopa-induced dyskinesia (lid)
+levodopa-induced dyskinesia
+levodopa-induced dyskinesias
+levodopa-sparing
+lid
+lids
+locomotion
+locomotor ability
+locomotor activity
+locomotor deficits
+locomotor dysfunction
+locomotor effects
+locomotor
+mattis dementia rating scale
+mds-updrs part 3 motor subscale
+measure of pd progression
+memory function
+memory impairment
+motor abnormalities
+motor activity
+motor and non-motor deficits
+motor and non-motor measures
+motor behavior test
+motor behavior
+motor behaviors
+motor benefit
+motor control
+motor coordination
+motor deficit
+motor deficits
+motor dysfunction
+motor fluctuations
+motor function deficits
+motor function
+motor functions
+motor impairment
+motor impairments
+motor improvement
+motor performance.
+motor rating scales
+motor recovery
+##motor symptoms
+motor tests
+movement balance
+movements
+muscle rigidity
+nausea
+neurobehavioral
+neurological functions
+neuropsychiatric
+non-motor symptoms
+non-motor tests
+of motor behavior
+'off' episodes
+olfactory discrimination
+on time
+open field test
+open field tests
+open field
+oral clearance
+oral tremor
+parkinsonian disability
+parkinsonian effects
+parkinsonian signs
+parkinsonism score
+#parkinsonism
+parkinson's-related behaviors
+pharmacokinetics
+physiological results
+placebo
+plasma concentrations
+plasma levels
+pole test
+positron emission computerized tomography
+positron emission tomography (pet)
+positron emission tomography
+postural instability
+primary outcome
+psychosis-like behaviours
+quality of life
+resting tremor
+###rigidity
+rota rod
+rotarod performance
+rotarod tests
+rotarod
+rotary performance tests
+rotation tests
+rotational assessments
+rotational behavior
+safe and well tolerated
+#safe
+safety assessments
+##safety concerns
+#safety
+sensorimotor coordination
+severe feeding deficit
+side effects
+social recognition memory
+sucrose consumption
+survival rate
+swim test
+#symptom
+#symptoms
+tests of forelimb use and akinesia
+the safety
+#therapeutic effect
+therapeutic effects of l-dopa
+#therapeutic efficacy
+therapeutic response of l-dopa
+tjms
+#treatment
+tremor
+tremulous jaw movements
+turning behavior
+ultrasonic vocalizations
+unified parkinson disease rating scale
+unified parkinson's disease rating scale "off" state
+unified parkinson's disease rating scale (updrs) motor scores
+unified parkinson's disease rating scale (updrs)
+unified parkinson's disease rating scale
+updrs motor scores
+variability in levodopa concentrations
+vigilance
+volume of distribution
+wearing-off
+weight loss
+working memory

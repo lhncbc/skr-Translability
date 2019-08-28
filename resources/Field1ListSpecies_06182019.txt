@@ -1,0 +1,346 @@
+Patients	Human	1
+Patient	Human	1
+Patient cohort	Human	1
+Human Study Subject	Human	1
+Human study	Human	1
+Investigative Subject	Human	1
+Clinical Trials	Human	1
+Clinical Trial	Human	1
+Multicenter Trials	Human	1
+Multicenter Trial	Human	1
+Clinical Trial 	Human	1
+Multicenter Study	Human	1
+People	Human	1
+Placebo	Human	1
+randomised controlled trial	Human	1
+randomised trial	Human	1
+multicentre study	Human	1
+multicentre trial	Human	1
+controlled trial	Human	1
+placebo-controlled trial	Human	1
+randomized controlled trial 	Human	1
+patient-centered outcomes	Human	1
+effectiveness trial	Human	1
+Exploratory Trial	Human	1
+placebo-controlled clinical study	Human	1
+Phase 1	Human	1
+Phase 2	Human	1
+Phase 3	Human	1
+Phase 4	Human	1
+Phase I	Human	1
+Phase II	Human	1
+Phase III	Human	1
+Phase IV	Human	1
+observational study	Human	1
+Primary outcome measure	Human	1
+Multi-arm multi-stage	Human	1
+Case control study	Human	1
+cohort study	Human	1
+Marmosets	Marmoset	1
+Marmoset	Marmoset	1
+Hapale	Marmoset	1
+Callithrix jacchus	Marmoset	1
+Common Marmoset	Marmoset	1
+Common Marmosets	Marmoset	1
+Macaca	Macaque	1
+Macaque	Macaque	1
+Macaques	Macaque	1
+Japanese Monkey	Macaque	1
+Japanese Monkeys	Macaque	1
+Celebes Apes	Macaque	1
+Celebes Ape	Macaque	1
+Barbary Ape	Macaque	1
+Barbary Apes	Macaque	1
+Black Ape	Macaque	1
+Black Apes	Macaque	1
+Crab-Eating Macaque	Macaque	1
+Crab-Eating Macaques	Macaque	1
+Crab Eating Monkey	Macaque	1
+Crab-Eating Monkeys	Macaque	1
+Cynomolgus Monkey	Macaque	1
+Cynomolgus Monkeys	Macaque	1
+Macaca radiatas	Macaque	1
+Bonnet Macaques	Macaque	1
+Bonnet Macaque	Macaque	1
+Bonnet Monkey	Macaque	1
+Bonnet Monkeys	Macaque	1
+Pigtail Monkey	Macaque	1
+Pigtail Monkeys	Macaque	1
+Pigtail Macaque	Macaque	1
+Pigtail Macaques	Macaque	1
+Pigtailed Monkey	Macaque	1
+Pigtailed Monkeys	Macaque	1
+Pig-Tailed Monkeys	Macaque	1
+Pig-Tailed Monkey	Macaque	1
+Pig Tailed Monkey	Macaque	1
+Macaca mulattas	Macaque	1
+Rhesus Monkey	Macaque	1
+Rhesus Macaque	Macaque	1
+Rhesus Macaques	Macaque	1
+Chlorocebus aethiops	Vervet Monkey	1
+Chlorocebus aethiop	Vervet Monkey	1
+Vervet Monkeys	Vervet Monkey	1
+Cercopithecus tantalus	Vervet Monkey	1
+Vervet Monkey	Vervet Monkey	1
+Savannah Monkey	Vervet Monkey	1
+Savannah Monkeys	Vervet Monkey	1
+Monkey, Grivet	Vervet Monkey	1
+Cercopithecus sabeus	Vervet Monkey	1
+Grivet Monkey	Vervet Monkey	1
+Grivet Monkeys	Vervet Monkey	1
+African Green Monkey	Vervet Monkey	1
+Green Monkey	Vervet Monkey	1
+Green Monkeys	Vervet Monkey	1
+Cercopithecus pygerythrus	Vervet Monkey	1
+Cotton-Top Marmoset	Marmoset	1
+Cotton-Top Marmosets	Marmoset	1
+Saguinus oedipus	Tamarin	1
+Tamarin	Tamarin	1
+Lion Tamarin	Tamarin	1
+Lion Tamarins	Tamarin	1
+Leontideus	Tamarin	1
+Golden Tamarin	Tamarin	1
+Golden Tamarins	Tamarin	1
+Owl Monkeys	Owl Monkey	1
+Owl Monkey	Owl Monkey	1
+Night Monkey	Owl Monkey	1
+Aotus	Owl Monkey	1
+Douroucouli	Owl Monkey	1
+Night Monkeys	Owl Monkey	1
+Squirrel Monkey	Squirrel Monkey	1
+Saimiri	Squirrel Monkey	1
+Baboons	Baboon	1
+Baboon	Baboon	1
+Papio	Baboon	1
+Ring-tail Monkey	Capuchin monkey	1
+Capuchin 	Capuchin monkey	1
+Cebus	Capuchin monkey	1
+Dwarf Lemur	Lemur	1
+Mouse Lemur	Lemur	1
+Microcebus	Lemur	1
+Lemur	Lemur	1
+Monkey	Non-human primate	2
+Monkeys	Non-human primate	2
+Nonhuman primate	Non-human primate	2
+Non-human primate	Non-human primate	2
+Non-human primates	Non-human primate	2
+Nonhuman primates	Non-human primate	2
+Primates	Non-human primate	2
+Dog	Dog	1
+Canis familiaris	Dog	1
+canine	Dog	1
+Cat	Cat	1
+Felis catus	Cat	1
+feline	Cat	1
+Rabbit	Rabbit	1
+Rabbits	Rabbit	1
+Sheep	Sheep	1
+Ovis aries 	Sheep	1
+Pig 	Pig 	1
+Pigs	Pig 	1
+Swine	Pig 	1
+Sus scrofa	Pig 	1
+Cheetahs	Cheetah	1
+Cheetah	Cheetah	1
+Acinonyx	Cheetah	1
+Horse	Horse	1
+Equus caballus	Horse	1
+Goat	Goat	1
+Bear	Bear	1
+Bovine 	Bovine 	1
+Deer	Deer	1
+Elk	Elk	1
+wolverine	Wolverine 	1
+Mouse	Mouse	1
+Mice	Mouse	1
+House mice	Mouse	1
+Laboratory mice	Mouse	1
+Mus	Mouse	1
+Mus domesticus	Mouse	1
+Mus caroli	Mouse	1
+Mus pahari	Mouse	1
+Mus saxicola	Mouse	1
+Mus spretus	Mouse	1
+Mus cervicolor	Mouse	1
+Mus cookii	Mouse	1
+Mus macedonicus	Mouse	1
+Murine	Mouse	1
+murine model	Mouse	1
+mouse model	Mouse	1
+Rat	Rat	1
+Rats	Rat	1
+Rattus norvegicus	Rat	1
+Rattus	Rat	1
+Rodent	Rodent	2
+Rodents	Rodent	2
+Rodent model	Rodent	2
+Cavia	Guinea Pig	1
+Cavia porcellus	Guinea Pig	1
+Guinea Pigs	Guinea Pig	1
+Guinea Pig	Guinea Pig	1
+Hamsters	Hamster 	1
+Cricetulus	Hamster 	1
+Mesocricetus	Hamster 	1
+Phodopus	Hamster 	1
+Hamsters	Hamster 	1
+Chinchillas	Chinchilla	1
+Chinchilla	Chinchilla	1
+Gerbil 	 Gerbil 	1
+Gerbils	 Gerbil 	1
+Squirrel	Squirrel	1
+Squirrels	Squirrel	1
+Sciurus 	Squirrel	1
+naked mole-rat 	Naked mole-rat 	1
+Heterocephalus glaber	Naked mole-rat 	1
+white-footed deer mouse 	Deer mouse 	1
+deer mouse 	Deer mouse 	1
+Peromyscus	Deer mouse 	1
+vole	Vole	1
+voles	Vole	1
+Microtus	Vole	1
+cotton rat 	Cotton rat 	1
+Sigmodon	Cotton rat 	1
+Praomys 	Mastomys	1
+Mastomys	Mastomys	1
+Calomys 	Vesper mouse	1
+Dicrostonyx	Lemming	1
+Lemming	Lemming	1
+Psammomys 	Sand rat 	1
+Oryzomys	Rice rat 	1
+Mystromys	South African hamster	1
+Marmota monax	Woodchuck	1
+woodchuck	Woodchuck	1
+Spermophilus	Ground squirrel	1
+Ground squirrel	Ground squirrel	1
+Cynomys	Prairie dog	1
+Prairie dog	Prairie dog	1
+Octodon 	Degu	1
+degu	Degu	1
+Hydra	Freshwater polyp	1
+Daphnia	Crustacean	1
+Aplysia	Sea slug	1
+Sea hare	Sea slug	1
+Sea slug	Sea slug	1
+Hermissenda 	Sea slug	1
+Asterina pectinifera	Starfish	1
+echinoderm	Starfish	1
+Asterias	Starfish	1
+sea urchin	Sea urchin	1
+Echinoidea	Sea urchin	1
+Caelifera 	Grasshopper	1
+grasshopper	Grasshopper	1
+Ciona intestinalis	Sea squirt 	1
+Nematostella 	Sea anemone 	1
+Sea anemone 	Sea anemone 	1
+Fly	Drosophila	1
+Drosophila	Drosophila	1
+worm	Nematode	1
+worms	Nematode	1
+Caenorhabditis elegans	Nematode	1
+C. elegans	Nematode	1
+nematode	Nematode	1
+zebrafish	Zebrafish	1
+Danio	Zebrafish	1
+Zebrafish	Zebrafish	1
+Frog	Frog	1
+Xenopus laevis	Frog	1
+Xenopus	Frog	1
+Bombyx mori	Silkmoth 	1
+Botryllus	Star ascidian 	1
+Fungia scutaria 	Coral	1
+Mytilus	Mussel	1
+Mussel	Mussel	1
+Helix aspersa 	Snail	1
+Snail	Snail	1
+Lymnaea 	Snail	1
+Octopus	Octopus	1
+chambered nautilus	Nautilus	1
+Nautilus	Nautilus	1
+Crab	Crab	1
+Bee	Bee	1
+Apis	Bee	1
+Honeybee	Bee	1
+Cricket	Cricket	1
+Gryllus	Cricket	1
+Tobacco hornworm 	Tobacco hornworm 	1
+Manduca 	Tobacco hornworm 	1
+Pontobdella 	Leech	1
+Leech	Leech	1
+Hirudo	Leech	1
+Squid	Squid	1
+Loligo 	Squid	1
+Eisenia 	Earthworm	1
+Earthworm	Earthworm	1
+Tubifex	Sludge worm 	1
+Potamopyrgus	Snail	1
+Limulus 	Crab	1
+beetle	Beetle	1
+Photinus	Beetle	1
+Aequorea 	Jellyfish 	1
+Nephila 	Spider	1
+Araneus	Spider	1
+Spider	Spider	1
+Anopheles	Mosquito	1
+Stomoxys 	Stable fly 	1
+Spongosorites	Sponge	1
+Axinella c	Sponge	1
+Saccharomyces 	Yeast	1
+Schizosaccharomyces 	Yeast	1
+Yeast	Yeast	1
+induced pluripotent stem cells	Alternative - Induced Pluripotent Stem Cells	1
+iPSCs	Alternative - Induced Pluripotent Stem Cells	1
+embryonic stem cells 	Alternative - Embryonic Stem Cells	1
+ESCs	Alternative - Embryonic Stem Cells	1
+induced pluripotent stem cell 	Alternative - Induced Pluripotent Stem Cells	1
+iPSC	Alternative - Induced Pluripotent Stem Cells	1
+embryonic stem cell	Alternative - Embryonic Stem Cells	1
+ESC	Alternative - Embryonic Stem Cells	1
+iPSCs-derived	Alternative - Induced Pluripotent Stem Cells	1
+IPS Cells	Alternative - Induced Pluripotent Stem Cells	1
+3D Culture	Alternative - 3D Culture	1
+3D-culture	Alternative - 3D Culture	1
+Neurospheroid	Alternative - 3D Culture	1
+Spheroid	Alternative - 3D Culture	1
+Neurospheroids	Alternative - 3D Culture	1
+Neurospheroid arrays	Alternative - 3D Culture	1
+3D neural culture	Alternative - 3D Culture	1
+3D cell culture	Alternative - 3D Culture	1
+three dimensional culture 	Alternative - 3D Culture	1
+Microfluidic system 	Alternative - Microfluidic cell culture 	1
+microfluidic array	Alternative - Microfluidic cell culture 	1
+microfluidic 	Alternative - Microfluidic cell culture 	1
+microfluidics	Alternative - Microfluidic cell culture 	1
+mini-brain	Alternative - 3D Culture	1
+mini-brains	Alternative - 3D Culture	1
+brain-on-a-chip	Alternative - Microfluidic cell culture 	1
+organ-on-a-chip 	Alternative - Microfluidic cell culture 	1
+microfluidic chip	Alternative - Microfluidic cell culture 	1
+organoid	Alternative - 3D Culture	1
+organoids 	Alternative - 3D Culture	1
+organ culture	Alternative - Organ culture	1
+Disease Models on a Chip	Alternative - Microfluidic cell culture 	1
+in silico drug efficacy screening	Alternative - In Silico 	1
+embryonic stem cells 	Alternative - Emryonic Stem Cells	1
+organs-on-chips	Alternative - Microfluidic cell culture 	1
+3D culturing	Alternative - 3D tissue culture	1
+3D in vitro culture 	Alternative - 3D tissue culture	1
+3D printing	Alternative - Bioprinting	1
+bioprinting	Alternative - Bioprinting	1
+Computer-aided Drug Design	Alternative - In Silico 	1
+Differentiation-on-a-chip	Alternative - Microfluidic cell culture 	1
+Human iPS Cell-Derived Patient Tissues	Alternative - Pluripotent Stem Cells	1
+In Vitro Microfluidic 	Alternative - Microfluidic cell culture 	1
+induced pluripotent stem cells	Alternative - Pluripotent Stem Cells	1
+Microdosing 	Alternative - Microdosing	1
+Microfluidic 3D cell culture	Alternative - Microfluidic cell culture 	1
+Microfluidic cell culture	Alternative - Microfluidic cell culture 	1
+Microfluidic chip	Alternative - Microfluidic cell culture 	1
+Microfluidic-based	Alternative - Microfluidic cell culture 	1
+Microfluidics chips	Alternative - Microfluidic cell culture 	1
+Organogenesis in a dish	Alternative - Organ culture	1
+organoid 	Alternative - Organoid	1
+organ-on-a-chip	Alternative - Microfluidic cell culture 	1
+Patient-Derived Induced Pluripotent Stem Cells	Alternative - Induced Pluripotent Stem Cells	1
+pluripotent stem cells 	Alternative - Induced Pluripotent Stem Cells	1
+spheroids	Alternative - Spheroid	1
+Three-dimensional cultures	Alternative - 3D tissue culture	1

@@ -1,0 +1,93 @@
+administer
+administered
+ameliorate
+ameliorates
+ameliorated
+alleviate
+alleviates
+alleviated
+attenuate
+attenuates
+attenuated
+augment
+augments
+augmented
+benefit
+beneficial
+benefits
+curative
+cures
+confer
+confers
+causes
+cause
+delivery
+delivers
+delivered
+deliver
+efficacy
+effective
+efficacious
+extend
+extends
+facilitate
+facilitates
+improve
+improves
+improvement 
+inhibitor
+inhibits
+inhibitory
+no effect
+ineffective
+potent
+potentiate
+potentiates
+prevent
+prevents
+prevention
+promote
+promotes
+protect
+protects
+reduces
+reduce
+reduce severity 
+rescue
+rescues
+restore
+restores
+results in 
+retard
+retards
+reverse
+reverses
+safety
+is safe
+support
+supports
+supportive
+suppress
+supresses
+severity 
+slow
+therapy
+therapeutic
+gene therapy
+gene delivery
+treat
+treatment
+treats
+deficiency
+deficient
+Knockdown
+loss of
+loss-of-function
+mutant
+mutants
+null
+overexpression
+reduced expression
+silenced
+silencing
+transgenic

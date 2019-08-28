@@ -1,0 +1,100 @@
+C1515655  in vivo
+C0162610   Caenorhabditis elegans
+C0013138 Drosophila
+C0021948  Invertebrates
+Caenorhabditis elegans
+C. elegans
+worm
+Drosophila
+D. melanogaster
+fly
+C0034693|Rattus norvegicus|mamm
+C0025914|House mice|mamm
+C2986594|Mouse Model|emod
+C0035804|Rodent|mamm
+C0003062|Animals|anim
+C1514292|Pre-Clinical Model|inpr
+C0026809|Mus|mamm
+C0025921|Mice, Inbred C57BL|mamm
+C0025936|Mice, Transgenic|mamm
+C3161035|Model|inpr|||models
+C0599779|Animal Model|anim|||animal models
+C0007450  Felis catus
+C0012984   Canis familiaris 
+C0024398   Macaca 
+C0024399   Macaca fascicularis 
+C0024400   Macaca mulatta 
+C0024401   Macaca nemestrina 
+C0024402   Macaca radiata 
+C0030362   Papio 
+C0598114   vervet 
+C0026438   Cercopithecus aethiops 
+C1504085   Cercopithecus pygerythrus 
+C0036052   Saguinus 
+C0006762   Callimico 
+C0024834   Marmoset, Cotton-Top 
+C0006764   Callithrix 
+C0006765   Callithrix jacchus jacchus 
+C0023296   Lemurs 
+C0025956   Microcebus 
+C3687508   Laboratory nonhuman primate 
+Rat
+Mouse
+Rodent
+Animal
+Animal model
+Cat
+Dog
+Macaque
+Macaca
+Papio
+Baboon
+Vervet monkey
+African green monkey 
+Tamarin
+Marmoset
+Lemur
+Mouse lemur
+Non human primate
+C0030705  Patients
+C0009932  Control Groups
+C0008976  Clinical Trials
+C0015576|Family|famg
+C0027361|Persons|popg
+C0086418|Homo sapiens|humn
+Human
+Patient
+C0036025  Saccharomyces cerevisiae
+C0007600 Cultured Cell Line
+C0007601 Cell Line, Transformed
+C0814990 neural cell line
+C0682524 fibroblast cell line
+C0682523 human cell line
+C0682517  animal cell line
+C0007634 Cells
+C0038250 Stem cells
+C0018956 Hematopoietic stem cells
+C0596508 Embryonic Stem Cells
+C0872076 Pluripotent Stem Cells
+C0872278 stem cell therapy
+C0872372 Totipotent Stem Cells
+C1113654  Neural Stem Cells
+C1136335  Multipotent Stem Cells
+C1171322  Adult Stem Cells
+C1171346  human embryonic stem cell
+C1257975  Mesenchymal Stem Cells
+C1504389  Stem cell transplant
+C1511246  Bone marrow stem cell
+C1721044  Fetal Stem Cells
+Saccharomyces cerevisiae
+Yeast
+cell line
+dopaminergic cell line
+neuroblastoma cell line
+induced plutipotent stem cells
+iPS cells 
+iPSC
+fetal cells 
+fetal tissue
+grafts
+fetal mesencephalic

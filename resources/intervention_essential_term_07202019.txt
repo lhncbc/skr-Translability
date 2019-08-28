@@ -1,0 +1,2141 @@
+bdnf 	627
+bndf	627
+brain derived neurotrophic factor	627
+brain-derived neurotrophic factor 	627
+ciliary neurotrophic factor 	1270
+cntf 	1270
+GM-CSF Leukine	1437
+Sagramostim	1437
+VY-AADC	1644
+VY-AADC01	1644
+VY-AADC02	1644
+GBA	2629
+GDNF	2668
+gip analogue	2695
+gip analogues	2695
+DDPAC	4137
+MAPT	4137
+MSTD	4137
+MTBT1	4137
+PARK2	5071
+PDJ	5071
+PRKN	5071
+PARK3	5072
+sNN0031	5154
+ASL13	6311
+ATX2	6311
+ATXN2	6311
+SCA2	6311
+ATXN8OS	6315
+KLHL1AS	6315
+SCA8	6315
+alpha-sy	6622
+alpha-syn	6622
+alphasyn 	6622
+alpha-synuclei	6622
+alpha-synuclein 	6622
+asyn	6622
+NACP	6622
+PARK1	6622
+PARK4	6622
+SNCA	6622
+snca 	6622
+syn 	6622
+synuclein alpha	6622
+HDL4	6908
+SCA17	6908
+TBP	6908
+SPG79	7345
+NDGOA	7345
+PARK5	7345
+UCHL1	7345
+sNN0029	7422
+INAD1	8398
+IPLA2	8398
+NBIA2A	8398
+NBIA2B	8398
+PARK14	8398
+PLA2G6	8398
+beclin1	8678
+EIEE53	8867
+PARK20	8867
+SYNJ1	8867
+cd163 	9332
+DJC6	9829
+DNAJC6	9829
+KIAA0473	9829
+PARK19	9829
+DJ1	11315
+PARK7	11315
+ATP13A2	23400
+KRPPD	23400
+PARK9	23400
+SPG78	23400
+FBX	25793
+FBX7	25793
+FBXO7	25793
+PARK15	25793
+PKPS	25793
+GIGYF2	26058
+KIAA0642	26058
+PARK11	26058
+HTRA2	27429
+MGCA8	27429
+OMI	27429
+PARK13	27429
+PRSS25	27429
+CHCHD2	51142
+PARK22	51142
+KIAA1421	54832
+PARK23	54832
+VPS13C	54832
+MEM3	55737
+PARK17	55737
+VPS35	55737
+LRRK2	120892
+PARK8	120892
+AAOPD	170534
+PARK10	170534
+cdnf 	441549
+PARK12	677662
+PARK16	100359403
+PARK21	108353827
+mitomycin c 	 C0002475
+amphetamine 	 C0002658
+antibodies 	 C0003241
+antibody 	 C0003241
+antioxidant 	 C0003402
+antioxidants 	 C0003402
+atropine 	 C0004259
+catechins 	 C0007404
+chloroquine 	 C0008269
+serotonin 5-ht2a/2c antagonist 	 C0036753
+serotonin antagonist 	 C0036753
+serotonin antagonists	 C0036753
+retinoic acid 	 C0040845
+ferulic acid 	 C004999
+baicalein 	 C006680
+diphenyleneiodonium 	 C007517
+trichostatin a 	 C0077063
+geniposide 	 C007835
+alpha-asarone 	 C012195
+beta-asarone 	 C012195
+vinpocetine 	 C013983
+serotonin 5-ht2a inverse agonist	C0162757
+serotonin agonist	 C0162757
+serotonin agonists	 C0162757
+SRA-444	  C0162757
+chitosan  C0162969
+carnosic acid	C018381
+alpha-mangostin	C021053
+anti-cholinergic	C0242896
+anti-cholinergics	C0242896
+Artane	 C0242896
+benztropine	 C0242896
+Cogentin 	 C0242896
+glutamate receptor antagonist 	 C0242910
+fenobam 	 C032794
+scaffold 	 C0337143
+scaffolds 	 C0337143
+ginsenoside 	 C035054
+ginsenoside rd 	 C035054
+ginsenoside rg1	 C035054
+chrysin 	 C043561
+vibrations 	 C0459800
+sib-1508y 	 C0528878
+dimethyl fumarate 	 C056020
+Resveratrol	 C059514
+catechol-o-methyltransferase inhibitor 	 C0595267
+catechol-o-methyltransferase inhibitors	 C0595267
+eltoprazine		     C063828
+Exelon	 C0649350
+Rivastach	 C0649350
+Rivastigmine	 C0649350
+sinapic acid 	 C073734
+dutasteride 	 C0754659
+anpirtoline 	 C075631
+ginkgetin 	 C077458
+Angiotensin II receptor blocker  	 C0815017
+angiotensin receptor antagonists 	 C0815017
+statin 	 C086276
+statins 	 C086276
+tanshinone	 C0897640
+sti571 	 C0906802
+ghrelin 	 C0911014
+s33084 	 C0914400
+rosmarinus officinalis 	 C0937646
+dihydromyricetin 	 C1174885
+tocopherol 	 C117613
+s32504 	 C1313121
+substance p receptor antagonist 	 C1373141
+pf-06447475 	 C1377705
+viral vector 	 C1520007
+ferric ammonium citrate 	 C419387
+difopein 	 C443131
+vildagliptin 	 C502012
+sertraline 	 C508857
+tesofensine 	 C518479
+amiloride 	 D000584
+amitriptyline 	 D000639
+amodiaquine 	 D000655
+benserazide 	 D001545
+carnosine 	 D002336
+dantrolene 	 D003620
+daunorubicin 	 D003630
+deferoxamine 	 D003676
+desipramine 	 D003891
+dexamethasone 	 D003907
+fluoxetine 	 D005473
+cis-flupenthixol 	 D005475
+heparin 	 D006493
+alpha-lipoic acid 	 D008063
+mianserin 	 D008803
+deprenyl 	 D012642
+silibinin 	 D012838
+sulpiride 	 D013469
+tetrabenazine 	 D013747
+trehalose 	 D014199
+trihexiphenidyl	 D014282
+chitosan 	 D048271
+EIF4G		 1981
+EIF4G1		 1981
+PARK18		 1981
+PARK6		 65018
+PINK1		 65018
+AB1010		 AB1010
+IPL344		 Akt activator
+PD01A		 alpha synuclein, Immunotherapy (active)
+BIIB054		 alpha-synuclein, Immunotherapy (passive)
+NI-202		 alpha-synuclein, Immunotherapy (passive)
+PRX002		 alpha-synuclein, Immunotherapy (passive)
+RO7046015 	alpha-synuclein, Immunotherapy (passive)
+GSK1223249	ALS, immunotherapy
+IC14	ALS, immunotherapy
+ABvac 40	Amyloid-Related, Immunotherapy (active)
+ACI-24	Amyloid-Related, Immunotherapy (active)
+Affitope	Amyloid-Related, Immunotherapy (active)
+Affitope AD02	Amyloid-Related, Immunotherapy (active)
+AIP 001	Amyloid-Related, Immunotherapy (active)
+amyloid antibodies	Amyloid-Related, Immunotherapy (active)
+amyloid antibody	Amyloid-Related, Immunotherapy (active)
+AN-1792	Amyloid-Related, Immunotherapy (active)
+CAD106	Amyloid-Related, Immunotherapy (active)
+Lu AF20513	Amyloid-Related, Immunotherapy (active)
+LuAF20513	Amyloid-Related, Immunotherapy (active)
+Pal1-15 acetate salt	Amyloid-Related, Immunotherapy (active)
+UB 311	Amyloid-Related, Immunotherapy (active)
+AAB001	Amyloid-Related, Immunotherapy (passive)
+AAB-001	Amyloid-Related, Immunotherapy (passive)
+AAB003	Amyloid-Related, Immunotherapy (passive)
+AAB-003	Amyloid-Related, Immunotherapy (passive)
+Aducanumab	Amyloid-Related, Immunotherapy (passive)
+anti amyloid antibodies	Amyloid-Related, Immunotherapy (passive)
+anti amyloid antibody	Amyloid-Related, Immunotherapy (passive)
+anti-Abeta	Amyloid-Related, Immunotherapy (passive)
+anti-amyloid antibodies	Amyloid-Related, Immunotherapy (passive)
+anti-amyloid antibody	Amyloid-Related, Immunotherapy (passive)
+anti-beta amyloid antibody	Amyloid-Related, Immunotherapy (passive)
+BAN2401	Amyloid-Related, Immunotherapy (passive)
+Bapineuzumab	Amyloid-Related, Immunotherapy (passive)
+BIIB037	Amyloid-Related, Immunotherapy (passive)
+Crenezumab	Amyloid-Related, Immunotherapy (passive)
+Donanemab	Amyloid-Related, Immunotherapy (passive)
+Gantenerumab	Amyloid-Related, Immunotherapy (passive)
+GSK933776	Amyloid-Related, Immunotherapy (passive)
+KHK6640	Amyloid-Related, Immunotherapy (passive)
+LY2062430	Amyloid-Related, Immunotherapy (passive)
+LY2599666	Amyloid-Related, Immunotherapy (passive)
+LY3002813	Amyloid-Related, Immunotherapy (passive)
+LY3372993	Amyloid-Related, Immunotherapy (passive)
+mAb158	Amyloid-Related, Immunotherapy (passive)
+MEDI1814	Amyloid-Related, Immunotherapy (passive)
+N3pG-Aβ Monoclonal Antibody	Amyloid-Related, Immunotherapy (passive)
+Ponezumab	Amyloid-Related, Immunotherapy (passive)
+RO4909832	Amyloid-Related, Immunotherapy (passive)
+SAR228810	Amyloid-Related, Immunotherapy (passive)
+Solanezumab	Amyloid-Related, Immunotherapy (passive)
+PBT2	Amyloid-Related, Metals, Small molecule
+PBT-2	Amyloid-Related, Metals, Small molecule
+Avagacestat	Amyloid-Related, Small molecule
+BI 1181181	Amyloid-Related, Small molecule
+BMS-708163	Amyloid-Related, Small molecule
+CT1812	Amyloid-Related, Small molecule
+Elayta	Amyloid-Related, Small molecule
+LY2886721	Amyloid-Related, Small molecule
+LY3202626	Amyloid-Related, Small molecule
+PF-06648671	Amyloid-Related, Small molecule
+PF-06751979	Amyloid-Related, Small molecule
+Atabecestat	BACE inhibitor
+AZD3293	BACE inhibitor
+BACE inhibitor	BACE inhibitor
+CTS21166	BACE inhibitor
+E2609	BACE inhibitor
+Elenbecestat	BACE inhibitor
+HPP854	BACE inhibitor
+JNJ-54861911	BACE inhibitor
+Lanabecestat	BACE inhibitor
+LY3314814	BACE inhibitor
+MABT5102A	BACE inhibitor
+MK-8931	BACE inhibitor
+RG7129	BACE Inhibitor
+RO5508887	BACE Inhibitor
+Umibecestat	BACE inhibitor
+Verubecestat 	BACE inhibitor
+VTP 37948	BACE inhibitor
+acetyl carnitine	C0001040
+L-acetyl carnitine	C0001040
+acetylcholinesterase inhibitor 	C0001046
+ENA713	C0001046
+Octohydroaminoacridine	C0001046
+N-Acetyl Cysteine	C0001047
+N-acetylcysteine	C0001047
+n-acetyl-l-cysteine 	C0001047
+auditory cortex activation	C0001164
+Auditory stimuli	C0001164
+JP 1730	C0001648
+alprazolam	C0002333
+Xanax 	C0002333
+ADS-5102	C0002403
+ads-5102 	C0002403
+amantadine	C0002403
+Gocovri	C0002403
+Osmolex ER	C0002403
+Symmetrel	C0002403
+Nonsteroidal Anti-inflammatory Drug	C0003211
+Nonsteroidal Anti-inflammatory Drugs	C0003211
+Non-steroidal Anti-inflammatory Drugs	C0003211
+NSAID	C0003211
+NSAID's	C0003211
+NSAIDs	C0003211
+peptide antibodies	C0003241
+peptide antibody	C0003241
+monoclonal antibody 	C0003250
+APL-130277	C0003596
+Behavioral intervention	C0004933
+Behavioral modification 	C0004933
+MD1003	C0005575
+lumbricusin	C000590837
+Semaglutide	C000591245
+Brexpiprazole	C000591922
+syn115	C000593256
+tozadenant	C000593256
+RM-131	C000593860
+Ozanezumab	C000594256
+ADX48621	C000596095
+dipraglurant 	C000596095
+TD-9855	C000601820
+5-((methylamino)methyl)-8-hydroxyquinoline	C000602394
+AZD3241 	C000602652
+var10303	C000602792
+ACC-001	C000603458
+PF-05236806	C000603458
+sa00025	C000605003
+kms04014	C000605757
+Encenicline	C000605814
+d-ser2-oxyntomodulin	C000609716
+Fortasyn	C000609944
+deoxygedunin	C000610188
+k560	C000610970
+coultrapealut	C000610984
+co-ultrapealut	C000610984
+Verubecestat	C000613570
+GSK2647544	C000615596
+rgfp109	C000615636
+6-hydroxy-1h-indazole	C000616256
+6-hydroxy-1-h-indazole	C000616256
+d-ala2-gip-glu-pal	C000616901
+kr33493	C000621010
+kr-33493	C000621010
+XanamemTM	C000621522
+Xanamem		C000621522
+SUVN-502	C000621657
+peptide tfp5/tp5	C000624536
+tfp5 peptide	C000624536
+tfp5/tp5 peptide	C000624536
+S 38093	C000624696
+S47445	C000625794
+nd-13	C000626885
+CNP520	C000628578
+VTS270	C0010558
+VTS-270	C0010558
+Cyclophosphamate	C0010583
+Diaminodiphenylsulfone	C0010980
+dopamine replacement	C0013030
+dopamine replacement therapy	C0013030
+dopaminergic agent 	C0013030
+dopaminergic therapy	C0013030
+dopaminergic treatment	C0013030
+doxepin	C0013085
+Silenor	C0013085
+homotaurine	C001355
+Tramiprosate	C001355
+HF0220	C0014483
+recombinant human erythropoietin	C0014822
+Etretin	C0015137
+Etretinate	C0015137
+RO 101670	C0015137
+glucocorticoids 	C0017710
+AZD5213	C0019590
+Histamine antagonists 	C0019590
+Levemir	C0021641
+clioquinol	C0021978
+iodochlorhydroxyquin	C0021978
+lactobacillus	C0022938
+Lactobacillus plantarum PS128	C0022938
+lactobacillus sakei 383	C0022938
+lactoferrin 	C0022942
+13C6 Leucine	C0023401
+l-alpha-methyl dopa 	C0023570
+nh2-rnrrwcidqqa 	C0025033
+Diaphragmatic Pacer	C0025080
+High Frequency Chest Compression Device 	C0025080
+mechanical insufflation	C0025080
+Neuro Cognitive Communicator	C0025080
+NeuRx Diaphragm Pacing System 	C0025080
+NeuRx DPS	C0025080
+Ventilatory support	C0025080
+wearable proprioceptive stabilizer	C0025080
+Akatinol	C0025242
+Namenda	C0025242
+monoamine oxidase b inhibitor 	C0025457
+monoamine oxidase type b inhibitor 	C0025457
+monoamine oxidase typeb (mao-b) inhibitor 	C0025457
+monoamine oxidase-a/monoamine oxidase-b inhibitor	C0025457
+ORY-2001	C0025457
+RO4602522	C0025457
+Sembragiline	C0025457
+Methylene Blue	C0025746
+methylthioninium 	C0025746
+TRx0014	C0025746
+TRx-0014	C0025746
+TRx0237	C0025746
+morphine 	C0026549
+Anaprox	C0027396
+Naproxen	C0027396
+opioid antagonist 	C0027410
+Vitamin B3	C0027996
+Niacinamide	C0028027
+Nicotinic acid amide	C0028027
+Nicotine	C0028040
+Nicotine gum	C0028040
+Nicotine Patch	C0028040
+pentoxifylline 	C0030899
+AVE 8112	C0031638
+BI409306	C0031638
+BPN14770	C0031638
+E2027	C0031638
+ibudilast	C0031638
+Lu AF82422	C0031638
+MK0952	C0031638
+MN-166	C0031638
+PDE inhibitor	C0031638
+PDE inhibitors	C0031638
+PDE1 inhibitor	C0031638
+PDE1 inhibitors	C0031638
+PDE10 inhibitor	C0031638
+PDE10 inhibitors	C0031638
+PDE2 inhibitor	C0031638
+PDE2 inhibitors	C0031638
+PDE4 inhibitor	C0031638
+PDE-4 inhibitor	C0031638
+PDE4 inhibitors	C0031638
+PDE5 inhibitor	C0031638
+PDE5 inhibitors	C0031638
+PDE6 inhibitor	C0031638
+PDE6 inhibitors	C0031638
+PDE9 inhibitor	C0031638
+PDE9 inhibitors	C0031638
+phosphodiesterase 7 (pde7) inhibitor 	C0031638
+phosphodiesterase inhibitor 	C0031638
+rolipram	C0031638
+sildenafil	C0031638
+SUB 166499	C0031638
+tadalafil	C0031638
+vardenafil	C0031638
+high-intensity light therapy	C0031765
+light therapy	C0031765
+near-infrared light	C0031765
+near-intrared light 	C0031765
+phototherapy	C0031765
+phytic acid 	C0031855
+Young Plasma	C0032105
+ppi-1011	C0032133
+PAZ-417	C0032145
+Minipress	C0032912
+SEP-363856	C0033978
+Plantago ovata 	C0033979
+Psyllium	C0033979
+MK0249	C0034407
+estrogen receptor	C0034804
+estrogen receptors	C0034804
+IRX4204	C0035339
+retinoid	C0035339
+retinoids	C0035339
+Targretin	C0035339
+ABT-354	C0036753
+Lu AE58054	C0036753
+PF-5212377	C0036753
+serotonin antagonist 	C0036753
+SYN120	C0036753
+SYN-120	C0036753
+WYE-103760	C0036753
+Ubiquinol	C003741
+social activity	C0037414
+social engagement 	C0037414
+socialization	C0037414
+somatostatin 	C0037659
+Recombinant human sphingomyelinase	C0037903
+behavioral stress	C0038435
+behavioural stress	C0038435
+chronic stress	C0038435
+chronic stress 	C0038435
+chronic unpredictable mild stress 	C0038435
+daily stress	C0038435
+environmental stress 	C0038435
+mild stress	C0038435
+restraint stress	C0038435
+stressor	C0038435
+Artane	C0041009
+tropicamide	C0041190
+turmeric 	C0041356
+tyrosine hydroxylase 	C0041491
+abt-107 	C0045246
+biochanin a 	C0053622
+Ditropan	C005419
+Oxybutynin 	C005419
+Edaravone	C005435
+MCI-186	C005435
+Aucardic	C0054836
+Carvedilol	C0054836
+Coreg	C0054836
+Dilatrend	C0054836
+Kredex	C0054836
+CoconutOil	C0056060
+coconut oil	C0056060
+Dimebon	C0058188
+latrepirdine	C0058188
+Pf-01913539	C0058188
+egcg	C0059438
+palmitoylethanolamide 	C005958
+finasteride 	C0060389
+Huperzine	C0063033
+levodopa/benserazide	C0065502
+madopar 	C0065502
+E0302	C0065844
+Melperone 	C0066477
+metylperon	C0066477
+THN102 	C0066677
+Cerebrolysin	C006952
+cerebrolysin 	C006952
+AD4833	C0071097
+prolyl oligopeptidase 	C0072132
+HWA 285	C0072171
+schisandrin b 	C0074175
+AZD-103	C0074214
+ELND005	C0074214
+Scyllo-inositol	C0074214
+Lipex	C0074554
+simvastatin	C0074554
+Tauro urso deoxycholic Acid	C0075857
+atomoxitine	C0076823
+Strattera	C0076823
+AC-1204	C0077030
+anti-sense oligonucleotide based therapy 	C0079925
+anti-sense oligonucleotide therapy 	C0079925
+BIIB067	C0079925
+BIIB078	C0079925
+BIIB080	C0079925
+IONIS-MAPTRx	C0079925
+ISIS 333611	C0079925
+toferson	C0079925
+DAOIB	C0080093
+DAOI-B	C0080093
+Neu-120	C0080093
+NMDA receptor 	C0080093
+NMDA receptors	C0080093
+c2-ceramide 	C0083632
+Elontril	C0085208
+10%IVIG	C0085297
+10% IVIG	C0085297
+Albumin Immune globulin	C0085297
+Albutein 5% 	C0085297
+Immune Globulin Intravenous	C0085297
+intravenous immunoglobulin	C0085297
+IVIG	C0085297
+Octagam	C0085297
+Cromolyn sodium Intal	C0086073
+14-3-3 	C0090388
+14-3-3 inhibitor	C0090388
+14-3-3 proteins 	C0090388
+14-3-3theta	C0090388
+14-3-3 theta	C0090388
+protocatechuic acid 	C009091
+ELND005	C009217
+DM-1992	C009265
+Duopa	C009265
+extended-release carbidopa-levodopa	C009265
+immediate-release carbidopa-levodopa	C009265
+IPX054 	C009265
+IPX066	C009265
+IPX203 	C009265
+levodopa plus carbidopa	C009265
+levodopa/carbidopa	C009265
+levodopa/carbidopa 	C009265
+levodopa/carbidopa/entacapone	C009265
+levodopa-carbidopa	C009265
+levodopa-carbidopa intestinal gel	C009265
+levodopa-carbidopa tablets 	C009265
+Parcopa	C009265
+Rytary 	C009265
+Sinemet	C009265
+Stalevo	C009265
+cevimeline HCL	C0093437
+TTP4000	C0101725
+ifenprodil 	C010739
+PF-05236812	C0108554
+LMTM	C011010
+conduritol-b-epoxide 	C0110594
+conduritol-beta-epoxide 	C0110594
+methanolic extract	C011499
+ethanolamine plasmalogens 	C0116719
+Nabilone	C011941
+Formoterol	C012629
+neurotrophic factor	C0132298
+neurotrophin	C0132298
+neurotrophins	C0132298
+SR 57746A	C0132298
+Benfotiamine	C013835
+Salsalate	C014182
+game	C0150593
+game 	C0150593
+lycopene 	C015329
+5-ht 1a/1b receptor agonist	C0162754
+5-ht(1) agonists	C0162754
+5-ht(1a) agonist	C0162754
+5-ht(1a) agonists	C0162754
+5-ht(1a) receptor agonist	C0162754
+5-ht(1b) agonists	C0162754
+5-ht1a /5-ht1b receptor agonist	C0162754
+5-ht1a/5-ht1b receptor agonist	C0162754
+5-ht1a agonist	C0162754
+5-ht1a receptor agonist	C0162754
+5-ht1a/1b receptor agonist	C0162754
+5ht1a/1b receptor ligands	C0162754
+5-ht1a/b receptor agonist	C0162754
+5-ht1b receptor agonists	C0162754
+RQ-00000010	C0162757
+serotonin(2a) receptor inverse agonis	C0162757
+histamine h3 agonist	C0162813
+histamine h3 agonists 	C0162813
+histamine h3 receptor agonists 	C0162813
+diindolylmethanes	C016392
+peroxisome proliferator-activated receptors 	C0166418
+Bydureon	C0167117
+Byetta	C0167117
+exenatide 	C0167117
+exendin-4	C0167117
+exendin-4 	C0167117
+Apokyn 	C0178601
+apomorphine	C0178601
+DA agonist 	C0178601
+dopamine agonist 	C0178601
+dopamine agonists 	C0178601
+dopamine d(3)/d(2)/d(1)-receptor agonist	C0178601
+dopamine d3/d2/d1-receptor agonist 	C0178601
+dopamine receptor partial agonist 	C0178601
+dopamine receptor partial agonists 	C0178601
+dopaminergic agonist 	C0178601
+KDT-3594	C0178601
+KW-6500	C0178601
+Lu AE04621	C0178601
+Mirapex	C0178601
+Neupro	C0178601
+PF-06412562	C0178601
+Requip	C0178601
+VR040	C0178601
+Electromyographic -triggered  stimulation	C0180636
+Electromyographic-triggered stimulation		C0180636
+Nicotinamide Riboside	C018613
+methylcobalamin	C019476
+subthalamotomy	C0195894
+Thalamotomy	C0195894
+mofetil	C0209368
+D-Pinitol	C021730
+NIC5-15	C021730
+Pinitol	C021730
+Zonegran	C022189
+Zonisamide	C022189
+motor rehabilitation 	C0234130
+Motor cortex stimulation	C0234393
+DA-9805	C0242388
+DCB-AD1	C0242388
+DHP1401	C0242388
+DL-3-n-butylphthalide	C0242388
+duzhong	C0242388
+ID1201	C0242388
+INM-176	C0242388
+MLC601	C0242388
+neuroaid	C0242388
+RPh201	C0242388
+opioid	C0242402
+opioids	C0242402
+ABT-126	C0242896
+mglu4 orthosteric agonist	C0242908
+mglu4 positive allosteric modulator (pam)	C0242908
+GM604	C0242912
+GM608 	C0242912
+Evoxac	C0242947
+HTL0009936	C0242947
+Muscarinic Agonists	C0242947
+TAK-071	C0242947
+JNJ-39393406	C0242948
+nicotinic agonists	C0242948
+α7-nAChR agonist	C0242948
+AQW051	C0242956
+Nicotinic Antagonists	C0242956
+gaba agonist	C0242974
+gaba agonists	C0242974
+CGP-36742	C0242975
+gaba antagonist	C0242975
+gaba antagonists	C0242975
+GABA Modulator	C0242976
+GABA Modulators	C0242976
+SAGE-217	C0242976
+JZP-110	C0242980
+hsp70 	C0243043
+AVP-786	C0243051
+Glycogen synthase kinase 3 inhibitor	C0244989
+Duloxetine	C0245561
+Coenzyme Q10	C024989
+coenzyme q10 	C024989
+coenzymeQ10	C024989
+CoQ10	C024989
+ly294002 	C0251991
+adenosine a2a receptor 	C0255998
+adenosine a2a receptors 	C0255998
+Physostigmine Salicylate	C026718
+Lingzhi 	C027869
+hormonal replacement 	C0279025
+hormonal therapy 	C0279025
+hyperbaric oxygen	C0279328
+hyperbaric oxygen 	C0279328
+atorvastatin	C0286651
+Lipitor	C0286651
+Lipovas	C0286651
+sb203580 	C0297666
+SAR 443060	C0297981
+Abilify	C0299792
+Aripiprazole	C0299792
+CuATSM	C0303182
+Caprylic Acid	C031492
+TUDCA	C031655
+Azilect	C031967
+rasagiline	C031967
+TVP-1012	C031967
+Propentofylline	C032114
+puerarin 	C033607
+schisantherin a	C034557
+Nilvad	C035100
+Nilvadipine	C035100
+Mirtazapine	C035133
+3-hydroxy-3-methylglutaryl-coenzyme a reductase inhibitor 	C0360714
+Idebenone	C036619
+nerolidol 	C037055
+Keppra	C0377265
+Levetiracetam	C0377265
+ibudilast	C038366
+ly303870 	C0383873
+sch 58261 	C0387956
+Detrol	C0388753
+tolterodine	C0388753
+Nalmefene	C038981
+Gabapentin	C040029
+Terazosin 	C041226
+Rifaximin	C042734
+acamprosate	C043877
+thermal-tactile stimulation	C0439815
+GRF6019	C0443120
+GRF6021	C0443120
+Deferiprone	C044919
+Cilostazol	C045645
+(-)-epigallocatechin-3-gallate	C045651
+epicatechin 	C045651
+Epigallocatechin Gallate	C045651
+epigallocatechin gallate 	C045651
+Epigallocatechin-3-gallate	C045651
+Epigallocatechin-Gallate	C045651
+epigallocatechin-gallate 	C045651
+PYM50028	C046297
+Ropinirole	C046649
+ropinirole 	C046649
+ropinirole prolonged release	C046649
+14,15-epoxyeicosa-5(z)-enoic acid	C046782
+14,15-epoxyeicosatrienoic acid	C046782
+Cabergoline	C047047
+Effexor	C047426
+Venlafaxine	C047426
+LY03003	C047508
+N-0923	C047508
+n-0923 	C047508
+Rotigotine	C047508
+rotigotine-loaded microspheres	C047508
+SER-214	C047508
+lamotrigine 	C047781
+modafinil	C048833
+Provigil	C048833
+Ambien	C049109
+Zolpidem	C049109
+Fasudil	C049347
+Cerebra capsule	C050426
+DEBIO 9902 	C050426
+Pharmassure Memorall capsule	C050426
+Qian ceng ta	C050426
+ZT-1	C050426
+s14	C051065
+l-threo-3,4-dihydroxyphenylserine	C051902
+Neuromuscular magnetic stimulation	C0521307
+neuromuscular stimulation	C0521307
+neurostimulation 	C0521307
+Eptastigmine	C052450
+Pallidotomy	C0524850
+thalamotomy	C0524850
+Aricept	C0527316
+5-ht7 receptor agonist	C0535922
+5-ht7 receptor antagonist	C0535922
+sb269970	C0535922
+calcium-independent phospholipase a2 	C0538273
+Sabeluzole	C055163
+Tandospirone	C055267
+Ranolazine	C055512
+Direct Current Polarization	C0556903
+apocyanin	C056165
+direct brain infusion	C0574032
+intraparenchymal infusion	C0574032
+intraputamenal infusion	C0574032
+Eliprodil	C058083
+piceid 	C058229
+polydatin 	C058229
+Nefiracetam	C058876
+tiagabine 	C059205
+Lornoxicam	C059451
+BIA 6-512	C059514
+dopa decarboxylase inhibitor 	C0598272
+ASP0777	C0598695
+MK0657	C0598695
+NMDA receptor antagonist	C0598695
+NMDA receptor antagonists	C0598695
+Miglustat	C059896
+OGT918	C059896
+Olipudasealfa	C0599122
+cycloastragenol	C061014
+Linopirdine	C061017
+Tamibarotene	C061133
+CTC-413	C061333
+KNS-760704	C061333
+Mirapex 	C061333
+P2B001 	C061333
+pramipexole 	C061333
+26 s proteasome	C061553
+EGb761	C063170
+trkb agonist	C064371
+Suritozole	C065324
+Tolcapone	C066340
+metabotropic glutamate receptor 4 	C0667286
+metabotropic glutamate receptor type 4 	C0667286
+mglu4	C0667286
+indoleamine 	C067042
+iem 1460 	C0671540
+phosphodiesterase 7 	C0673071
+KW-6002	C0673472
+lactacystin 	C067713
+ABT 418	C0684164
+ABT-089	C0684164
+ABT-288	C0684164
+AF 102B	C0684164
+AZD1446	C0684164
+AZD3480	C0684164
+Quetiapine	C069541
+Seroquel	C069541
+Enduramide	C0699712
+device 	C0699733
+ru486 	C0701303
+Entacapone	C071192
+calpeptin 	C071482
+Copaxone	C0717787
+Copolymer 1	C0717787
+glatiramer	C0717787
+sodium phenylbutyrate 	C0718066
+GSK2981710	C0724624
+Besipirdine HCl	C074872
+estrogen receptor modulator 	C0752229
+NPT1220-312	C0754728
+Olanzapine	C076029
+Levosimendan	C076731
+ODM-109	C076731
+E2020	C076946
+imetit 	C077430
+lmx1a	C078021
+QS-21	C078785
+SGS742	C079148
+SGS-742	C079148
+7-nitroindazole 	C080122
+Sargramostim	C081222
+Candesartan	C081643
+delta-tocotrienol 	C082097
+prgf-endoret	C082332
+Valacyclovir	C084555
+Milameline	C084978
+LY300164	C085266
+Talampanel	C085266
+hydroxysafflor yellow a	C085278
+immepip 	C085755
+NeoTrofin	C086241
+Interferon beta-1a 	C086937
+interferon-beta 	C086937
+nanoformulation	C0872323
+nanoliposome	C0872323
+nanoliposomes	C0872323
+nanoparticle 	C0872323
+nanoparticles	C0872323
+nanoparticulate	C0872323
+nanospheres	C0872323
+nanotechnology	C0872323
+nanotechnology 	C0872323
+nanotherapeutics	C0872323
+nanovector	C0872323
+controlled cortical impact	C0876926
+Mycophenolate 	C0883242
+Zoledronic Acid	C088658
+hu-308 	C0911048
+j-113397 	C0911365
+Posiphen	C092280
+Phenserine	C092280
+Safinamide	C092797
+safinamide 	C092797
+MKC-231		C092988
+hypericum perforatum 	C0936242
+panax ginseng 	C0949314
+PanaxGinseng	C0949314
+curcuma longa 	C0950101
+Bexarotene	C095105
+MYOBLOC	C096323
+gw501516 	C0966149
+sp600125 	C0968383
+Tenofovir	C096918
+alpha-tocopherol	C0969677
+dl-alpha-tocopherol	C0969677
+Vitamin E	C0969677
+Levitra	C0971579
+vardenafil	C0971579
+CX516	C097396
+sch58261	C098657
+Gilenya	C098720
+Sildenafil	C101426
+Viagra	C101426
+piper longum 	C1014694
+nociceptin/orphanin fq (nop) receptor antagonist	C101513
+nociceptin/orphanin fq receptor (nop) antagonist	C101513
+nociceptin/orphanin fq receptor agonists	C101513
+Ezogabine	C101866
+faah inhibitor	C102018
+Moxifloxacin	C104727
+moxifloxacin 	C104727
+engrailed	C106185
+cep-1347 	C106592
+Pitavastatin	C108475
+sumanirole	C108539
+SB 202026	C109640
+compound 1 	C1097641
+TCH346	C111178
+tch346 	C111178
+Vorinostat	C111237
+Istradefylline	C111599
+Basiliximab	C113157
+picrorhiza kurroa 	C1135912
+Arocyte	C1138502
+Cereact	C1138502
+MK-0724	C1138502
+ONO-2506	C1138502
+Neramexane	C114144
+PF-05212377	C1143376
+glutaminyl cyclase inhibitor	C1151912
+PQ912	C1151912
+5-ht(2a) inverse agonist	C1152742
+CX-8998	C1153433
+Rofecoxib	C116926
+Cialis	C1176316
+Tadalafil	C1176316
+nr2b antagonist	C121001
+K0706	C1268567
+antimicrobial peptide	C1271650
+amylod-beta metabolic process	C1327339
+APH-1105	C1327339
+irc-082451 	C1328010
+ABT-384	C1328819
+ABT-957	C1328819
+AD-35	C1328819
+Ampalex	C1328819
+Apabetalone	C1328819
+APD-125	C1328819
+ARC029	C1328819
+Aus-131	C1328819
+Avandia	C1328819
+BAY Z 4406	C1328819
+BI 409306	C1328819
+BI 425809	C1328819
+BIIB 050	C1328819
+BMS-337039	C1328819
+COR388	C1328819
+CX1632	C1328819
+DB959	C1328819
+DuP996	C1328819
+DVD-742	C1328819
+Dynacin	C1328819
+E 2020	C1328819
+EVP-0334	C1328819
+GC021109	C1328819
+HP 749	C1328819
+hydroxylvaleryl monobenzocaprolactam	C1328819
+ITI-007	C1328819
+KM-819	C1328819
+leteprinim	C1328819
+Liraglutide	C1328819
+liraglutide 	C1328819
+LM11A-31-BHS 	C1328819
+MD 26479	C1328819
+MEM 1003	C1328819
+MEM 3454	C1328819
+Memary	C1328819
+Memric	C1328819
+Micardis	C1328819
+Mitoglitazone	C1328819
+Motrin	C1328819
+MRZ 2/579	C1328819
+Naprosyn	C1328819
+Novolin	C1328819
+NP12	C1328819
+NS2330	C1328819
+NSA-789	C1328819
+ORM-12741	C1328819
+PF-04494700	C1328819
+PF-05251749	C1328819
+Piozone	C1328819
+PXT00864	C1328819
+PXT864	C1328819
+R58735	C1328819
+RG1577	C1328819
+Rilapladib	C1328819
+RVX-208	C1328819
+Sabeluzole	C1328819
+SAM-760	C1328819
+SB-659032	C1328819
+SDZ ENA 713	C1328819
+SGS 518	C1328819
+T3D-959	C1328819
+TC-1734	C1328819
+TTP488	C1328819
+TV3326	C1328819
+UE 2343	C1328819
+Vasoflex	C1328819
+Victoza	C1328819
+VX-745	C1328819
+tp5 peptide	C1332735
+estrogen receptor beta agonists 	C1373007
+prokineticin-2 	C1425527
+eszopiclone	C1436328
+Lunesta	C1436328
+ispronicline	C1506511
+FRM-0334	C1512474
+Histone deacetylase inhibitor	C1512474
+GDC-0134	C1513344
+proteasome inhibition 	C1514526
+proteasome inhibitor 	C1514526
+LNK-754	C1517132
+triterpenoic acid	C1519655
+aav2-haadc	C1520007
+AAV-hAADC-2	C1520007
+adeno-associated virus type 2-human aromatic l-amino acid decarboxylase	C1520007
+Far Infrared Radiation	C1532326
+Infrared light	C1532326
+Infrared radiation	C1532326
+Infra-red radiation	C1532326
+cheonggukjang	C1532456
+fermented soybean 	C1532456
+FLX-787-ODT	C1563722
+transient receptor potential channel	C1563722
+AAV-GAD	C1564874
+AAVrh.10hPOE2 vector	C1564874
+Ad2/HIF-1	C1564874
+Ad4-Env145NFL 	C1564874
+Ad4-Env150KN 	C1564874
+Ad4-EnvCN54 	C1564874
+Ad4-H5-Vtn	C1564874
+Ad4-mgag 	C1564874
+adeno-associated viral (aav) vector	C1564874
+adeno-associated viral vector	C1564874
+adeno-associated virus	C1564874
+urb597 	C1569108
+Lecozotan	C1569605
+SRA-333	C1569605
+BTRX-246040	C1621614
+Foliglurax	C1622176
+metabotropic glutamate receptor type 4 binding	C1622176
+PXT002331	C1622176
+type 4 metabotropic glutamate receptor binding	C1622176
+d(2) receptor partial agonist	C1622190
+d(2/3) receptor partial agonist	C1622190
+D2 dopamine receptor agonist	C1622190
+D2 receptor agonist	C1622190
+d-2/d-3 agonist	C1622190
+d2/d3 dopamine agonist	C1622190
+d2/d3 dopamine receptor agonist	C1622190
+d3/d2 agonist	C1622190
+d3/d2 dopamine receptor agonist	C1622190
+dopamine d(2) agonist	C1622190
+dopamine d(2) receptor partial agonis	C1622190
+dopamine d(2) receptor partial agonist	C1622190
+dopamine d(2)/d(3) receptor partial agonist	C1622190
+dopamine d2/3 partial agonist 	C1622190
+dopamine d2/d3 agonist 	C1622190
+dopamine partial d2/d3 agonist 	C1622190
+dopaminergic d(2) agonist	C1622190
+dopaminergic d(2) receptor agonist	C1622190
+EMD 128130	C1622190
+IRL790	C1622190
+l741,626	C1622190
+OPC 34712	C1622190
+partial d(2) agonist	C1622190
+partial d(2) receptor agonist	C1622190
+partial d(2/3) dopamine (da) receptor agonist	C1622190
+partial dopamine agonist	C1622190
+D1  receptor agonist	C1623287
+D1 dopamine receptor agonist	C1623287
+D1 dopamine receptor binding	C1623287
+LY3154207	C1623287
+d(4) receptor antagonists	C1623300
+dopamine d(4) receptor antagonist	C1623300
+melatonin agonist	C1635027
+Neu-P11	C1635027
+VP4896	C1662131
+Circadin	C1710381
+a2a ligands	C1751374
+a2a r	C1751374
+dopamine d3 receptor 	C1751432
+dopamine d3 receptor agonist 	C1751432
+BBB opening	C1831732
+Blood Brain Barrier Disruption	C1831732
+Blood-Brain Barrier opening 	C1831732
+BEN-2001	C1956071
+histamine h3 receptor antagonist	C1956071
+histamine h3 receptor antagonists 	C1956071
+SAR110894	C1956071
+continuous dopaminergic stimulation	C2245493
+dopamine and serotonin re-uptake inhibitor	C2266926
+MRgFUS	C2368378
+EPI-589	C2610187
+Paliroden	C2826084
+SR57667B	C2826084
+5-ht(1a) receptor antagonist	C2936517
+GSK 742457	C2936517
+a(2a)/a(1) receptor antagonist	C2936572
+adenosine 2a (a(2)(a)) receptor antagonist	C2936572
+adenosine 2a receptor antagonist 	C2936572
+adenosine a(1) and a(2a) receptor antagonist	C2936572
+adenosine a(1) and a(2a) receptor dual antagonist	C2936572
+adenosine a(2)a receptor antagonist	C2936572
+adenosine a(2)a-receptor antagonist	C2936572
+adenosine a(2a) receptor antagonist	C2936572
+adenosine a(2a) receptor antagonists	C2936572
+adenosine a(2a)/a(1) receptor antagonist	C2936572
+adenosine a2a antagonist	C2936572
+adenosine a2a receptor antagonist 	C2936572
+adenosine a2a receptor antagonists	C2936572
+adenosine a2a/a1 receptor antagonist 	C2936572
+adenosine a2ar antagonists	C2936572
+Ciforadenant 	C2936572
+CPI-444	C2936572
+KW-6356	C2936572
+PBF-509	C2936572
+SCH 900800	C2936572
+V81444	C2936572
+AVE8112	C2936609
+Phosphodiesterase 4 Inhibitors	C2936609
+Phosphodiesterase-4 Inhibitor	C2936609
+Phosphodiesterase-4 Inhibitors	C2936609
+CP-101606	C2981362
+Traxoprodil	C2981362
+pi3k inhibitor	C3273307
+p38 inhibitor	C3274555
+Aricept	C3652776
+DKF-310	C3652776
+Donepezil	C3652776
+THN201	C3652776
+monoamine reuptake inhibitor	C3653409
+Gold Nanocrystals	C3824478
+Gold Nanoparticles	C3824478
+statin 	C3824679
+statins	C3824679
+AMX0035	C3848590
+phenylbutyrate	C3848590
+long-chain triglyceride	C3873606
+ppp2a agonist	C3893398
+S-Equol	C3896945
+gad67	C402565
+Novasoy	C4033533
+soy isoflavone	C4033533
+Lacosamide	C403507
+Alpha4 beta2 nicotinic receptor agonist	C403531
+alpha4beta2 nicotinic acetylcholine receptor agonist	C403531
+SBC-102	C4050579
+sebelipase alfa	C4050579
+mu opioid agonist	C4060037
+mu-agonist	C4060037
+mu-opioid agonist	C4060037
+Neotigason	C4082602
+activin a	C422405
+Ladostigil	C423264
+roflumilast	C424423
+davunetide	C425904
+GZ402665	C4278198
+Lumateperone	C4305843
+CERE-110	C4305865
+EHT 0202	C4305875
+EHT0202	C4305875
+selective serotonin norepinephrine reuptake inhibitor	C4324235
+selective serotonin norepinephrine reuptake inhibitors	C4324235
+SNRIs	C4324235
+BIA 3-202	C433466
+Nebicapone	C433466
+nebicapone 	C433466
+solifenacin 	C441209
+Sarizotan 	C443959
+Neflamapimod	C4477198
+Azeliragon	C4519175
+MK-7622	C4519241
+Lemborexant	C4519269
+PM012	C4549162
+PRX-03140	C4550357
+Edonerpic	C4551139
+MK0677	C4551437
+Xaliproden	C462299
+VX-745	C464966
+Kredex	C4704734
+NGX267	C470586
+mitoq	C476756
+Lixisenatide	C479460
+lixisenatide 	C479460
+TH9507	C479538
+Pardoprunox	C480679
+pardoprunox 	C480679
+SLV308	C480679
+fipamezole	C480818
+Stalevo	C481098
+Darunavir	C482292
+AC-3933	C483032
+Pridopidine	C483720
+deltafosb	C483819
+LY450139	C484278
+Semagacestat	C484278
+NC-531	C486237
+GPI 1485	C486238
+arimoclomol	C486387
+ras homolog enriched in striatum	C486702
+faf1 inhibitor	C490780
+fas-associated factor 1 inhibitor	C490780
+transient receptor potential vanilloid 1	C494482
+Ramelteon	C495910
+Rozerem	C495910
+pg01037	C497150
+Nilotinib	C498826
+Lecozotan	C500836
+histone deacetylase 1 and 2 isoform-specific inhibitor	C502418
+histone deacetylase inhibitor 	C502418
+8-ethoxy-9-ethyladenine 	C502530
+piperine 	C502571
+Tocilizumab	C502936
+T-817 MA T 817	C503102
+T-817MA	C503102
+Flurizan	C505522
+MPC-7869	C505522
+st1535	C506291
+Lubiprostone	C506401
+AVP-923	C507057
+FK962	C507659
+microrna-124	C509207
+bifeprunox	C509981
+piclozotan	C510463
+ACP-103	C510793
+acp-103 	C510793
+Nuplazid	C510793
+Pimavanserin	C510793
+pimavanserin 	C510793
+ST101	C511224
+LY451395	C512030
+eszopiclone	C515051
+AZD0530	C515233
+Saracatinib	C515233
+aplindore	C515853
+aplindore 	C515853
+BF2.649 	C516975
+pitolisant	C516975
+tesofensine	C518479
+soluble epoxide hydrolase	C518648
+gabaa antagonist	C519780
+Mirabegron	C520025
+Myrbetriq	C520025
+NP031112	C520571
+Nypta	C520571
+Tideglusib	C520571
+Zentylor	C520571
+cerebral dopamine neurotrophic factor	C522217
+CHF 5074	C522246
+CHF5074	C522246
+Olesoxime	C522838
+TRO19622	C522838
+AVE1625	C523652
+f15599	C524188
+asp5854	C524699
+Masitinib	C526575
+Masivet	C526575
+Fesoterodine	C526675
+BAY94-9172	C527756
+SK-PC-B70M	C527801
+ire1alpha	C528229
+Dapagliflozin	C529054
+Triheptanoin	C531010
+Velusetrag	C533727
+DA-9701	C533973
+Axona	C538853
+Ketasyn	C538853
+Preladenant	C539997
+preladenant 	C539997
+SCH 420814 	C539997
+Ruxolitinib	C540383
+XPro1595	C540591
+GSK962040 	C541863
+TC-5619	C543641
+AZD0328	C543642
+AZD1446	C545606
+azd1480	C545606
+MLC901	C546417
+Nelotanserin	C546600
+BIIB014	C547274
+mir-214 inhibitor	C547397
+mir-214 mimic	C547397
+Intepirdine	C548140
+RVT-101	C548140
+SB 742457	C548140
+SB-742457	C548140
+GLN-1062	C548757
+uridine 	C548853
+BIA 9-1067	C549349
+Opicapone	C549349
+E2007	C551441
+Perampanel	C551441
+kyp-2047	C551540
+Suvorexant	C551624
+Filgrastim	C554038
+BMS-708163	C554092
+SAM-315	C554418
+Dabigatran	C554682
+RG3487	C554954
+lsp1-2111	C555637
+GSK1360707	C557997
+dolutegravir	C562325
+asic1a	C568266
+Anavex 2-73	C568535
+ANAVEX2-73	C568535
+Idalopirdine	C568612
+LuAE58054	C568612
+GSK1034702	C568644
+LY2811376	C569204
+PF-03654746	C569672
+Glycerol Phenylbutyrate	C570223
+vu0364770	C571150
+PF-04447943	C572323
+PF-04360365	C572721
+CK-2017357	C572767
+CK-2017357 	C572767
+EVP-6124	C573817
+mdg548	C575274
+daun02	C576267
+AZD3839	C578092
+uwa-101	C579241
+uwa-121	C579241
+UWA-122	C579241
+IB1001	C579324
+Armodafinil	C579652
+MSDC-0160	C581095
+AFQ056	C581397
+Piromelatine	C581609
+SAM-531	C581984
+lrrk2 kinase inhibitor	C582847
+lrrk2 kinase inhibitors	C582847
+3-o-demethylswertipunicoside	C583860
+GSK239512	C584220
+comt inhibitor	C588010
+Comtan 	C588010
+entacapone	C588010
+Tasmar 	C588010
+tolcapone	C588010
+tc-8831	C588225
+glp-1 analogue	D000067757
+glp-1 mimetic	D000067757
+glp-1 mimetics	D000067757
+glp-1/gip dual-agonist	D000067757
+glucagon-like peptide-1 receptor agonist	D000067757
+receptor for advanced glycated end product	D000067759
+Celebrex	D000068579
+Celecoxib	D000068579
+Varenicline	D000068580
+polygonum multiflorum thunb	D000068676
+Atorvastatin	D000069059
+Zarator	D000069059
+Atomoxetine	D000069445
+bone marrow reconstitution	D000074243
+jak inhibitors	D000075242
+jak1/2 inhibitor	D000075242
+Videogames	D000076142
+Virtual Reality	D000076142
+visual stimuli	D000076142
+Rosiglitazone	D000077154
+trans-3,4',5-trihydroxystilbene	D000077185
+pioglitazone 	D000077205
+topiramate 	D000077236
+AGB101	D000077287
+Telmisartan	D000077333
+Dexpramipexole	D000077487
+Acetaminophen	D000082
+Paracetamol	D000082
+Acetyl-L-Carnitine	D000108
+Acetyl-l-carnitine HCI	D000108
+Acthar	D000324
+corticotropin	D000324
+piper longum	D000470
+Acute Intermittent Hypoxia	D000860
+tricyclic antidepressant 	D000929
+tricyclic antidepressants 	D000929
+apomorphine	D001058
+bee venom	D001514
+Betamethasone	D001623
+bicuculline 	D001640
+Biofeedback	D001676
+Biotin	D001710
+Botox	D001905
+Botulinum A toxin	D001905
+Botulinum toxin	D001905
+Incobotulinum Toxin A 	D001905
+traumatic brain injury	D001930
+bromocriptine 	D001971
+Bumetanide 	D002034
+Buprenorphine	D002047
+Buspirone	D002065
+JM-010	D002065
+Chocolate	D002099
+Cocoa	D002099
+Caffeine	D002110
+1,25-dihydroxyvitamin d3	D002117
+calcitriol 	D002117
+calcium channel blocker	D002121
+cannabidiol	D002188
+Cannabis	D002188
+Cannabis Oil	D002188
+CBD Oil   	D002188
+Capsaicin	D002211
+ABBV-951	D002230
+ABT-SLV187	D002230
+carbidopa	D002230
+carbidopa-levodopa	D002230
+carbidopa-levodopa 	D002230
+lodosyn 	D002230
+ND0611	D002230
+ND0612	D002230
+sinemet 	D002230
+ceftriaxone	D002443
+ceftriaxone 	D002443
+metal chelator	D002614
+Vitamin D3	D002762
+Cholinesterase Inhibitor 	D002800
+cholinesterase inhibitors	D002800
+Cognex	D002800
+Clonazepam	D002998
+Klonopin	D002998
+clozapine	D003024
+Clozaril	D003024
+Colchicine	D003078
+Creatine	D003401
+creatine 	D003401
+Creatinine	D003401
+Curcumin	D003474
+curcumin 	D003474
+diferuloylmethane	D003474
+cystamine 	D003538
+cysteamine 	D003538
+Avlosulfon	D003622
+Dapsone	D003622
+d-amphetamine 	D003913
+Dextroamphetamine	D003913
+AXS-05	D003915
+dextromethorphan	D003915
+Nuedexta	D003915
+3-APS	D004032
+AC-1202	D004032
+Acetyl-l-carnitine HCI	D004032
+ALCAR	D004032
+Alpha-Tocopherol	D004032
+Calogen 	D004032
+caloric restriction 	D004032
+calorie restriction 	D004032
+Caprylic triglyceride	D004032
+DHA	D004032
+Diet	D004032
+diet intervention 	D004032
+Dietary Supplement	D004032
+different diets	D004032
+docosahexaenoic acid 	D004032
+EPAX1050TG	D004032
+FortasynTM Connect	D004032
+high carbohydrate diet	D004032
+high fat diet 	D004032
+high-fat diet	D004032
+high-fat diet 	D004032
+KetoCal	D004032
+Ketogenic Diet	D004032
+Ketone ester drink	D004032
+Longvida	D004032
+Low-Carbohydrate Diet 	D004032
+low-fat diet	D004032
+low-fat diet 	D004032
+Mediterranean Diet	D004032
+Melatonin	D004032
+Modified Atkins Diet 	D004032
+Nutritional Counseling 	D004032
+Souvenaid	D004032
+tricaprilin	D004032
+Vitamin E	D004032
+Disulfiram	D004221
+Domperidone	D004294
+3,4-dihydroxyphenylalanine	D004295
+doxycycline	D004318
+doxycycline 	D004318
+electroconvulsive therapy	D004565
+electroconvulsive therapy 	D004565
+ellagic acid 	D004610
+Erythromycin	D004917
+etazolate	D004974
+ALD-101	D005312
+DUOC-01	D005312
+human umbilical cord blood derived 	D005312
+fish oil	D005395
+Florinef	D005438
+Fludrocortisone	D005438
+Flumazenil	D005442
+Folate	D005492
+Folic Acid	D005492
+galantamine	D005702
+Razadyne	D005702
+Reminyl	D005702
+Glucose	D005947
+glutathione 	D005978
+Reduced Glutathione	D005978
+Choline alfoscerate 	D005997
+Glycopyrrolate	D006024
+Robinul	D006024
+Haloperidol	D006220
+hydrogen sulfide 	D006862
+Hypnosis	D006990
+Ibuprofen	D007052
+Nuprin	D007052
+6C5 huIgG1/l	D007116
+AL001	D007116
+donanemab	D007116
+Human Albumin Combined With Flebogamma	D007116
+NewGam	D007116
+passive immunotherapy 	D007116
+RG1450	D007116
+RG6100	D007116
+RG7412	D007116
+Gammagard	D007167
+Immunoadsorption 	D007167
+immunotherapy	D007167
+indomethacin	D007213
+Intraventricular injection	D007276
+Intrathecal injection	D007278
+Inosine 	D007288
+humulin	D007328
+Insulin	D007328
+Nasal Insulin	D007328
+clioquinol 	D007464
+PBT-1	D007464
+Ketoconazole	D007654
+Memory Training	D007858
+AP09004	D007980
+CVT-301	D007980
+Inbrija	D007980
+INP103	D007980
+L dopa 	D007980
+l: -dopa	D007980
+l-3,4-dihydroxyphenylalanine-dopa	D007980
+l-dopa	D007980
+L-dopa 	D007980
+levodopa	D007980
+levo-dopa	D007980
+alphalipoic acid	D008063
+Lipoic acid	D008063
+clodronate-encapsulated liposome	D008081
+liposomal 	D008081
+liposome 	D008081
+liposomes	D008081
+liposomes 	D008081
+lithium	D008094
+Ativan	D008140
+lorazepam	D008140
+lovastatin 	D008148
+Magnesium sulfate	D008278
+Medroxyprogesterone	D008525
+melatonin 	D008550
+Melatonin	D008550
+CKD-355A	D008559
+Ebixa	D008559
+Memantine	D008559
+Metformin	D008687
+metformin 	D008687
+Rember TM	D008751
+Methylphenidate	D008774
+Ritalin	D008774
+Methylprednisolone	D008775
+Mexiletine	D008801
+Midazolam 	D008874
+Midodrine	D008879
+ProAmatine	D008879
+Arestin	D008911
+Minocin	D008911
+Minocycline	D008911
+minocycline 	D008911
+partial monocyte depletion	D009000
+l-propyl-l-leucyl-glycinamide	D009075
+melanocyte-inhibiting factor	D009075
+Muscimol	D009118
+Music 	D009147
+Music therapy	D009147
+piano training	D009147
+ipratropium bromide 	D009241
+nalbuphine 	D009266
+Naltrexone	D009271
+naltrexone 	D009271
+Naproxen	D009288
+neurotrophic factor	D009414
+neurotrophic factor 	D009414
+neurotrophic factors 	D009414
+neurotrophins	D009414
+Niacin	D009525
+Nicotinamide	D009536
+Nimodipine	D009553
+nimodipine 	D009553
+Nimotop	D009553
+Nortriptyline	D009661
+oleanolic acid 	D009828
+Oxycodone	D010098
+oxytocin	D010121
+Syntocinon	D010121
+Pergolide	D010479
+pergolide 	D010479
+pharmacogenetic stimulation	D010597
+bee venom phospholipase a2	D010740
+Pimozide	D010868
+Piribedil	D010891
+piribedil 	D010891
+piroxicam 	D010894
+Fresh Frozen Plasma	D010949
+plasma rich in growth factors	D010949
+plasmalogen precursor analog	D010955
+polyinosinic-polycytidylic acid 	D011070
+Prazosin	D011224
+Prednisone	D011241
+Allopregnanolone	D011280
+allopregnanolone 	D011280
+Probucol	D011341
+Progesterone	D011374
+progesterone 	D011374
+Pyridostigmine bromide	D011729
+Pyrimethamine	D011739
+quinidine sulfate	D011802
+g protein-coupled membrane estrogen receptor agonist	D011960
+CP-526555	D011978
+dmxb	D011978
+DMXB-A	D011978
+MT-4666	D011978
+nicotinic acetylcholine receptor agonist	D011978
+RO5313534	D011978
+Talsaclidine	D011978
+rifampicin	D012293
+Sarcosine 	D012521
+Eldepryl	D012642
+l-deprenyl 	D012642
+Selegiline	D012642
+Zelapar	D012642
+Selenium	D012643
+L-Serine	D012694
+Sleep	D012890
+sodium oxybate	D012978
+Growth Hormone  	D013006
+Speech therapy	D013070
+adipose mesenchymal stromal cells 	D013234
+Adipose-derived Mesenchymal Stromal Cells	D013234
+autologous adipose derived regenerative cells 	D013234
+Autologous Adipose-Tissue Derived Stem Cells	D013234
+autologous bone marrow-derived stem cells	D013234
+autologous mesenchymal stem cells	D013234
+autologous MSC	D013234
+bone marrow derived mesenchymal stem cells	D013234
+CB-AC-02	D013234
+human embryonic stem cell 	D013234
+human embryonic stem cells 	D013234
+Human Umbilical Cord Blood Derived-Mesenchymal Stem Cells	D013234
+Human Umbilical Cord Derived MSC	D013234
+human umbilical cord mesenchymal stem cells	D013234
+HYNR-CS injection	D013234
+HYNR-CS-Allo	D013234
+HYNRCS-Allo injection	D013234
+Intravenous Bone Marrow Stem Cell	D013234
+mesenchymal stem cell	D013234
+mesenchymal stem cell 	D013234
+mesenchymal stem cells	D013234
+mesenchymal stem cells 	D013234
+mesenchymal stromal cells	D013234
+mouse embryonic stem cells	D013234
+Neural Stem Cells	D013234
+neural stem cells 	D013234
+NTCELL Implantation	D013234
+Placental Derived Stem Cell	D013234
+Progenitor Stem Cell Culture	D013234
+stem cell	D013234
+stem cell therapy	D013234
+stem cell therapy 	D013234
+Stem Cell Transplant	D013234
+Stem Cell Transplantation	D013234
+stem cells	D013234
+stem cells 	D013234
+Umbilical cord blood therapy	D013234
+Umbilical Cord Tissue	D013234
+bacillus subtilis 	D013381
+Tacrine	D013619
+Tamoxifen	D013629
+tamoxifen 	D013629
+green tea	D013662
+Green Tea Polyphenols 	D013662
+AndroGel 	D013739
+testosterone	D013739
+delta(9)-tetrahydrocannabinol	D013759
+delta-9-tetrahydrocannabinol	D013759
+Dronabinol	D013759
+thalidomide 	D013792
+therapy	D013812
+transfect	D014162
+transfection 	D014162
+Desyrel	D014196
+Trazodone	D014196
+Tretinoin	D014212
+Metrifonate	D014236
+Tropicamide	D014331
+l-tryptophan 	D014364
+Tryptophan	D014364
+L-tyrosine	D014443
+Tyrosine	D014443
+ursodeoxycholic acid	D014580
+vaccination	D014611
+v. wallichii 	D014632
+valerian	D014632
+valeriana wallichii	D014632
+Divalproex	D014635
+Sodium Valproate	D014635
+sodium valproate 	D014635
+Valproate	D014635
+valproic acid	D014635
+mechanical vibration	D014732
+mechanical vibrations	D014732
+Vitamin B12	D014805
+Vitamin E	D014810
+vitamin e 	D014810
+Warfarin	D014859
+lutein	D014975
+lutein 	D014975
+Droxidopa	D015103
+Northera 	D015103
+Gemfibrozil	D015248
+Citalopram	D015283
+citalopram 	D015283
+escitalopram	D015283
+CERE-110	D015316
+gene delivery	D015316
+gene delivery 	D015316
+gene replacement 	D015316
+gene therapy	D015316
+gene therapy 	D015316
+gene transfection	D015316
+gene transfer	D015316
+gene transfer 	D015316
+genic therapy 	D015316
+Nerve Growth Factor gene therapy	D015316
+OXB-102	D015316
+ProSavin	D015316
+VM202	D015316
+Aerobic walking	D015444
+Agility Training	D015444
+dance 	D015444
+Dancing	D015444
+dancing 	D015444
+exercise	D015444
+exercise 	D015444
+exercise.	D015444
+exercised	D015444
+exercises 	D015444
+exercising 	D015444
+Exergame	D015444
+Expiratory Muscle Strength Training 	D015444
+gait training	D015444
+gait training 	D015444
+Muscle training	D015444
+Physical Activity	D015444
+physical exercise 	D015444
+Physical Therapy	D015444
+physical training 	D015444
+physiotherapy	D015444
+physiotherapy 	D015444
+Sport therapy	D015444
+strength and aerobic training	D015444
+strength training	D015444
+strength training 	D015444
+Tai Chi 	D015444
+training	D015444
+training 	D015444
+treadmill 	D015444
+treadmill exercise	D015444
+treadmill training	D015444
+walk 	D015444
+walking 	D015444
+Yoga	D015444
+Isotretinoin	D015474
+Omega 3 fatty acid	D015525
+omega-3	D015525
+Omega-3 Fatty Acids	D015525
+electroacupuncture	D015671
+electroacupuncture 	D015671
+Mifepristone	D015735
+Famotidine	D015738
+propofol	D015742
+Cognitive behavioral therapy 	D015928
+Cognitive Remediation	D015928
+cognitive stimulation 	D015928
+Cognitive Training	D015928
+cognitive-behavioral therapy	D015928
+Active immunotherapy	D016233
+active immunotherapy 	D016233
+AL002	D016233
+AL003	D016233
+Vanutide	D016233
+Guanfacine	D016316
+Tacrolimus 	D016559
+leuprolide	D016729
+LUPRON	D016729
+Gamunex	D016756
+pravastatin 	D017035
+Acitretin	D017255
+Ramipril	D017257
+Isradipine	D017275
+Clarithromycin	D017291
+selective serotonin reuptake inhibitors	D017367
+selective serotonine re-uptake inhibitor	D017367
+SSRI	D017367
+SSRIs	D017367
+SSRI's	D017367
+paroxetine	D017374
+Paxil	D017374
+ADL5510	D017450
+mu-opioid receptor antagonist	D017450
+mu-selective opioid antagonists	D017450
+Itraconazole	D017964
+d3 antagonist	D018492
+alpha2c-adrenoceptor antagonist	D018674
+JNJ27063699	D018674
+pro-cholinergics	D018679
+gabaergic drugs	D018682
+antagonists of glutamate	D018691
+antiglutamatergic drugs	D018691
+3,4-methylenedioxymethamphetamine	D018817
+3,4-methylenedioxy-n-methamphetamine	D018817
+ecstasy	D018817
+Risperidone	D018967
+Meditation	D019122
+nadph oxidase antagonist	D019255
+nadph oxidase inhibitor	D019255
+nadph oxidase inhibitors	D019255
+idazoxan 	D019329
+Ritonavir 	D019438
+herbal 	D019509
+engraft	D019737
+engraftable	D019737
+engrafted	D019737
+engraftment 	D019737
+fetal nigral transplantation	D019737
+Fetal porcine cells	D019737
+fibroblast transplantation	D019737
+graft 	D019737
+grafted	D019737
+grafting 	D019737
+grafts	D019737
+grafts 	D019737
+PBMC autotransplantation	D019737
+transplant	D019737
+transplantation	D019737
+transplantation 	D019737
+transplanted	D019737
+transplants	D019737
+xenogeneic	D019737
+xenograft 	D019737
+xenografts 	D019737
+xenotransplantation 	D019737
+BHV-0223	D019782
+Rilutek	D019782
+Riluzole	D019782
+Simvastatin	D019821
+simvastatin 	D019821
+Genistein 	D019833
+Probiotic	D019936
+implant	D020007
+implantation 	D020007
+implanted	D020007
+implants	D020007
+Rapamycin	D020123
+rapamycin 	D020123
+rapamycin.	D020123
+Sertraline	D020280
+Ginkgo Biloba	D020441
+ginkgo biloba l	D020441
+Raloxifene	D020849
+raloxifene 	D020849
+neuregulin-1 beta1	D020890
+Raclopride	D020891
+h. perforatum	D020902
+hypericum perforatum 	D020902
+st. john's wort	D020902
+Perindopril	D020913
+AIT-082	D020932
+Nerve Growth Factor	D020932
+milk thistle 	D020944
+Alpha-Tocopherol	D024502
+Vitamin B6	D025101
+Acupressure	D026881
+acupuncture 	D026881
+Salvia officinalis	D027543
+salvia miltiorrhiza bunge	D027561
+Laughter Therapy	D027641
+Grape 	D027843
+Grapeseed Extract	D027843
+Photobiomodulation	D028022
+camellia sinensis	D028241
+acorus gramineus solander	D029023
+eucommia ulmoides oliv.	D031283
+albizia adianthifolia	D031289
+scutellaria baicalensis georgi	D031364
+c. tubulosa	D031671
+Cistanche	D031671
+cistanche tubulosa 	D031671
+p. longum	D031701
+gardenia jasminoides ellis	D032062
+schisandra chinensis	D032141
+ampelopsis grossedentata	D032421
+buddleja 	D032861
+Ganodermas	D032902
+Optical Coherence Tomography 	D041623
+phosphodiesterase 1	D043264
+pedunculopontine nucleus lesion	D045042
+Continuous Positive Airway Pressure	D045422
+CPAP	D045422
+pyrroloquinoline quinone 	D045542
+Activa PC	D046690
+DBS	D046690
+deep brain electrical stimulation 	D046690
+deep brain stimulation 	D046690
+Globus pallidus DBS	D046690
+Globus pallidus stimulation	D046690
+pallidal stimulation	D046690
+Pedunculopontine nucleus DBS	D046690
+Pedunculopontine nucleus stimulation	D046690
+Subthalamic DBS	D046690
+subthalamic nucleus stimulation	D046690
+Subthalamic stimulation	D046690
+Thalamic DBS	D046690
+Thalamic stimulation	D046690
+luteolin 	D047311
+casein kinase inhibitors	D047388
+non-thiazolidinedione ppargamma agonist	D047495
+peroxisome proliferator-activated receptor agonist	D047495
+peroxisome proliferator-activated receptor agonists	D047495
+peroxisome proliferator-activated receptor-gamma coactivator	D047495
+ppargamma agonist	D047495
+ppar-gamma agonist	D047495
+ppargamma agonists	D047495
+estrogen receptor alpha agonist	D047628
+estrogen receptor alpha agonists 	D047628
+peroxisome proliferator-activated receptor beta/delta (pparbeta/delta) agonists	D048068
+pparbeta/delta agonist	D048068
+jnk inhibitor	D048670
+apoptosis signal-regulating kinase 1	D048848
+Regulatory T cells 	D050378
+serotonin (sert) and dopamine (dat) transporter inhibitor	D050486
+sert inhibitor	D050486
+sert/ dat inhibitors	D050486
+sert/dat inhibitors	D050486
+vmat-2	D050493
+low-frequency rtms	D050781
+magnetic stimulation	D050781
+rTMS	D050781
+Transcranial Alternating Current 	D050781
+transcranial direct current stimulation	D050781
+Transcranial Magnetic Coil Stimulation 	D050781
+Transcranial magnetic stimulation	D050781
+Transcranial stimulation	D050781
+glial cell line derived neurotrophic factor 	D051100
+glial cell line-derived neurotrophic factor	D051100
+glial cell line-derived neurotrophic factor 	D051100
+glial cell-derived neurotrophic factor	D051100
+glial-derived neurotrophic factor	D051100
+liatermin	D051100
+CERE-120	D051101
+neurturin 	D051101
+NRTN	D051101
+hemeoxygenase	D051547
+spirulina platensis	D053545
+Anakinra	D053590
+substance p-loaded gelatin nanoparticles	D053758
+oxyntomodulin analogue	D053772
+oxyntomodulin analogues	D053772
+pallidotomy	D053860
+bioengineered scaffolds	D054457
+rho kinase inhibitor	D054460
+rock	D054460
+pde7 inhibitor	D054708
+Bryostatin	D054713
+dipeptidyl peptidase (dpp)-4 inhibitor	D054873
+microparticles	D055252
+microspheres	D055252
+microspheres 	D055252
+Ketogenic medium chain triglyceride 	D055423
+Oral D-Mannitol 	D055423
+sirtuin-2 inhibitor	D056565
+hdac1/2 isoform-specific inhibitor	D056572
+pan-histone deacetylase inhibitor	D056572
+alpha-2 antagonist	D058669
+5alpha-reductase inhibitor	D058891
+5alpha-reductase inhibitors	D058891
+Sunphenon EGCg	D059808
+tea polyphenol	D059808
+tea polyphenols	D059808
+Spinal cord stimulation	D062187
+spinal cord stimulation	D062187
+Brain Computer Interface	D062207
+Oxaloacetate	D062907
+Non-invasive home ventilation	D063087
+noninvasive positive pressure ventilation	D063087
+non-invasive ventilation	D063087
+endocannabinoid	D063388
+fecal microbial transplantation	D064307
+microbiome	D064307
+microbiota 	D064307
+microbiota colonization	D064307
+microbiota transplant	D064307
+microbiota transplantation	D064307
+microbiota transplants	D064307
+PRIM-DJ2727	D064307
+metabotropic glutamate 5 (mglu5) receptor antagonist	D064529
+metabotropic glutamate 5 (mglu5) receptor antagonists	D064529
+metabotropic glutamate receptor 5 antagonist	D064529
+metabotropic glutamate receptor 5 antagonists	D064529
+metabotropic glutamate receptor type 5 (mglu5 receptor) antagonist	D064529
+metabotropic glutamate receptor type 5 antagonist	D064529
+mglu5 receptor antagonist	D064529
+mglu5 receptor antagonists	D064529
+mglur5 antagonist	D064529
+mglur5 negative allosteric modulator	D064529
+mglur5 receptor negative allosteric modulator	D064529
+alpha7 nachr agonists	D064569
+alpha7 nicotinic receptor agonist	D064569
+autograft 	D064592
+Autologous	D064592
+Autologous Cerebral Spinal Fluid	D064592
+Autologous T-regulatory lymphocytes	D064592
+autotransplant	D064592
+autotransplantation 	D064592
+Rabeprazole	D064750
+Mindfulness	D064866
+BAY86-5280	D064987
+cell based therapy 	D064987
+cell replacement	D064987
+cell replacement  	D064987
+cell therapy	D064987
+cell therapy 	D064987
+Cell-based therapeutics	D064987
+cell-based therapies 	D064987
+cell-based therapy	D064987
+cell-based therapy 	D064987
+cellular therapy 	D064987
+Spheramine 	D064987
+d(2) antagonist	D065127
+d2 antagonist	D065127
+tDCS	D065908
+E2212	Gamma secretase modulator
+EVP-0962	Gamma secretase modulator
+GSI136	Gamma secretase modulator
+GSI-136	Gamma secretase modulator
+GSI-953	Gamma secretase modulator
+NGP555	Gamma secretase modulator
+CVXL-0107	Glutamate release inhibitor
+DNL747	Inflammation, Immunotherapy (passive)
+Etanercept	Inflammation, Immunotherapy (passive)
+DNL201 	LRRK2 inhibitor
+NPT088	Protein aggregation inhibitor
+NPT200-11	Protein aggregation inhibitor
+UCB0599	Protein aggregation inhibitor
+CK-2127107	skeletal muscle troponin activator 
+Reldesemtiv	skeletal muscle troponin activator 
+NPT520-34 	SLC22A8 inhibitor
+TAI	Tau aggregation inhibitor 
+Tau aggregation inhibitor 	Tau aggregation inhibitor 
+TRx0037	Tau aggregation inhibitor 
+AADvac1	Tau, Immunotherapy (active)
+AADvac-1	Tau, Immunotherapy (active)
+ACI-35	Tau, Immunotherapy (active)
+ABBV-8E12	Tau, Immunotherapy (passive)
+Axon peptide 108 conjugated to KLH	Tau, Immunotherapy (passive)
+BIIB076	Tau, Immunotherapy (passive)
+BIIB092	Tau, Immunotherapy (passive)
+BMS-241027	Tau, Immunotherapy (passive)
+BMS-986168 IPN007	Tau, Immunotherapy (passive)
+C2N 8E12	Tau, Immunotherapy (passive)
+C2N-8E12	Tau, Immunotherapy (passive)
+Epothilone D	Tau, Immunotherapy (passive)
+JNJ-63733657	Tau, Immunotherapy (passive)
+LY3303560	Tau, Immunotherapy (passive) 
+MTAU9937A	Tau, Immunotherapy (passive)
+NI-105	Tau, Immunotherapy (passive)
+RG7345	Tau, Immunotherapy (passive)
+RO 7105705	Tau, Immunotherapy (passive)
+RO6926496	Tau, Immunotherapy (passive)
+RO7105705	Tau, Immunotherapy (passive)
+UCB0107	Tau, Immunotherapy (passive)
+AL-108	Tau, microtubule stabilizer
+davenutide	Tau, microtubule stabilizer
+TPI 287	Tau, microtubule stabilizer
+AGN-242071	Unknown mechanism 
+AR1001	Unknown mechanism 
+DNS-7801 	Unknown mechanism 
+HK-001  	Unknown mechanism 
+IPT803	Unknown mechanism 
+MK-4334	Unknown mechanism 
+NDX-1017	Unknown mechanism 
+PPI-1019	Unknown mechanism 
+RGN1016	Unknown mechanism 
+SB-509	Unknown mechanism 
+SPM 962	Unknown mechanism 
+VI-1121	Unknown mechanism 
